@@ -1,0 +1,44 @@
+
+# 🦅・ Aigle - Mont Hayate 🆕
+
+Au cœur du désert du Pays du Vent s'élève une montagne que les cartes refusent encore de représenter avec précision. Le **Mont Hayate** n'est pas seulement un sommet perdu au milieu des dunes, mais l'un de ces lieux anciens où l'énergie naturelle s'est accumulée jusqu'à devenir presque perceptible, comme si le monde lui-même y respirait plus fort qu'ailleurs. Là-haut, les vents ne soufflent pas simplement, ils tournent, se croisent, se répondent et semblent porter avec eux la mémoire de tout ce qui a un jour traversé le ciel du désert. Les anciens racontent que les quatre vents du Pays du Vent finissent tous, tôt ou tard, par effleurer le Mont Hayate, et que ceux qui savent les écouter peuvent y entendre autre chose qu'un simple courant d'air.
+
+Bien avant que les hommes ne cherchent à gravir ses falaises, bien avant que les premiers ermites ne comprennent l'importance de ce lieu, le Mont Hayate était dominé par un être que les légendes nomment encore **l'Aigle Royal**. Immense, majestueux et imprégné d'une quantité d'énergie naturelle que nul autre oiseau ne semblait posséder, il régnait sur les cieux avec une autorité absolue. Aucun oiseau n'était autorisé à survoler les alentours de son domaine, aucune bête ailée ne pouvait s'approcher du sommet sans son accord, aucun homme ne devait lever les yeux vers ces hauteurs en pensant qu'elles pouvaient lui appartenir. Pour maintenir cet ordre, l'Aigle Royal s'appuyait sur ses neuf enfants, de puissants aigles qu'il avait élevés non comme des héritiers libres, mais comme des gardiens, des soldats et des extensions de sa propre volonté.
+
+Les années passèrent, et les neuf aigles grandirent dans l'ombre de leur père. Ils apprirent à lire les courants, à plonger depuis les nuages, à disparaître dans les tempêtes de sable et à faire respecter les frontières invisibles du Mont Hayate, mais jamais ils n'apprirent réellement à choisir leur propre chemin. Chaque envol répondait à un ordre, chaque patrouille servait une peur, chaque horizon leur était présenté comme une limite à défendre plutôt qu'un appel à découvrir. Peu à peu, pourtant, une idée commença à naître dans certains esprits, discrète d'abord, presque honteuse, puis de plus en plus impossible à ignorer : à quoi bon posséder des ailes si l'on ne peut pas décider soi-même du vent que l'on souhaite suivre ?
+
+L'Aigle Royal ne comprit jamais cette aspiration. Lui qui dominait le ciel tout entier vivait pourtant enfermé dans sa propre obsession du contrôle. Il gardait l'énergie naturelle du Mont Hayate pour lui seul, comme si la laisser circuler revenait à perdre une partie de sa souveraineté, et plus les années passaient, plus sa puissance ressemblait à une prison qu'il avait lui-même construite autour de son esprit. Il craignait la liberté de ses enfants parce qu'elle lui rappelait celle qu'il ne possédait plus, il craignait les vents lointains parce qu'ils portaient des directions qu'il ne commandait pas, il craignait jusqu'à l'idée que l'un des siens puisse vivre autrement qu'à travers sa volonté.
+
+Un jour, l'un de ses fils trouva la force de parler. Il ne souhaitait ni voler le trône, ni défier l'autorité de son père, ni s'emparer de l'énergie naturelle du Mont Hayate. Il voulait simplement partir, découvrir ce qui se trouvait au-delà des falaises, suivre les courants qui l'appelaient depuis toujours et vivre selon son propre souffle. Il tenta d'abord d'en parler à ses frères, mais aucun d'eux ne parvint à imaginer une existence réellement différente de celle qu'ils avaient toujours connue. Alors il monta seul jusqu'au sommet, face à l'Aigle Royal, et lui demanda le droit de quitter la montagne.
+
+L'Aigle Royal l'écouta en apparence, mais à mesure que son fils parlait de liberté, lui n'entendait déjà plus qu'une seule chose : la trahison. Dans son esprit, vouloir partir revenait à déserter, désirer le ciel revenait à contester son règne, et rêver d'une vie différente suffisait à prouver que l'esprit de rébellion s'était glissé dans le cœur de son enfant. Pourtant, il ne laissa rien paraître. Il lui répondit avec calme, lui accorda son départ, lui parla de vent, d'avenir et de liberté, puis attendit que son fils déploie ses ailes avec l'espoir naïf d'une nouvelle vie. Lorsque le jeune aigle prit son envol, l'Aigle Royal fondit sur lui et le tua avant que le ciel ne puisse réellement l'accueillir.
+
+Les huit autres aigles assistèrent à cette scène sans parvenir à agir. Ils n'étaient pas indifférents, ni lâches, ni dépourvus d'amour pour leur frère, mais leur esprit avait été façonné depuis trop longtemps par la domination de leur père. Ils avaient appris à obéir avant d'apprendre à penser, à protéger une prison avant de comprendre qu'ils y étaient enfermés, et la mort de leur frère ouvrit brutalement une fissure dans tout ce qu'ils croyaient vrai. À partir de ce jour, quelque chose changea. Les murmures devinrent des conversations, les conversations devinrent des désaccords, puis les désaccords devinrent peu à peu une volonté commune. Chacun dut lutter contre sa propre peur, contre l'idée même de désobéir, contre cette voix intérieure qui répétait encore que l'Aigle Royal était le seul maître légitime du ciel.
+
+Lorsque les huit frères furent enfin capables de se rallier, ils se dressèrent ensemble contre leur père. Les anciens racontent que le combat dura trois jours et trois nuits, et que jamais le désert n'avait entendu les vents hurler avec une telle violence. Le vent du nord, le vent du sud, le vent de l'est et le vent de l'ouest convergèrent vers le Mont Hayate, entrant en résonance avec l'énergie naturelle que l'Aigle Royal avait retenue si longtemps pour lui seul. La montagne devint l'œil d'un cyclone immense, les dunes changèrent de place, les cieux se fermèrent sur eux-mêmes et, pendant trois jours, nul ne put distinguer la colère des aigles du cri de la tempête.
+
+Lorsque les vents finirent par retomber, l'Aigle Royal avait disparu. Nul ne sut jamais s'il avait été tué, s'il avait fui ou si l'énergie naturelle du Mont Hayate l'avait emporté ailleurs, dans un lieu où même ses enfants ne pourraient plus le retrouver. Les huit aigles, eux, étaient toujours là, épuisés, blessés, mais libres. En brisant le joug de leur père, ils avaient libéré la montagne elle-même, car l'énergie naturelle qu'il gardait jalousement cessa d'être enfermée dans une seule volonté et se répandit à nouveau dans les vents, les falaises, les nuages et les courants qui entouraient le sommet. Ce jour-là, le Mont Hayate ne fut plus le domaine d'un roi, il devint le sanctuaire d'une liberté reconquise.
+
+Les huit frères reçurent alors la bénédiction de cette énergie naturelle, non comme une récompense offerte par une force consciente, mais comme une conséquence de leur libération. Ils avaient rendu au vent ce qui appartenait au vent, ils avaient arraché la montagne à l'autorité d'un seul être, et en retour, le Mont Hayate les reconnut comme ses véritables gardiens. Depuis ce jour, ils sont connus comme les **Animaux Légendaires du Mont Hayate**, les huit aigles qui refusèrent qu'un ciel entier demeure la propriété d'un seul roi.
+
+Aujourd'hui encore, les huit aigles choisissent parfois des hommes et des femmes parmi ceux qui gravissent le Mont Hayate. Ils ne cherchent pas des serviteurs, ni des disciples dociles, ni des combattants prêts à suivre aveuglément une doctrine. Ils reconnaissent ceux dont le cœur aspire réellement à la liberté, ceux qui refusent les chaînes autant qu'ils refusent d'en imposer aux autres, ceux qui comprennent que voler ne signifie pas fuir, mais choisir soi-même la direction de son existence. Les élus des aigles deviennent les héritiers de cette histoire, apprenant à écouter les vents plutôt qu'à les commander, à suivre leur propre voie plutôt qu'à marcher dans celle qu'un autre leur aurait tracée.
+
+Depuis la chute de l'Aigle Royal, le Mont Hayate n'est plus une prison suspendue au-dessus du désert. Il est un lieu d'épreuve, de mémoire et de libération, où l'énergie naturelle circule librement entre les falaises et les nuages. Les huit aigles y veillent encore, portés par le souvenir de leur frère disparu et par la certitude qu'aucun ciel ne mérite d'être possédé. Tant qu'ils régneront sur ces hauteurs, jamais le Mont Hayate ne redeviendra la cage d'un maître, car le vent n'a jamais eu vocation à obéir, et ceux qui naissent sous son appel finissent toujours, un jour ou l'autre, par chercher leur propre horizon.
+
+> *« Les aigles ne cherchent pas la liberté. Ils sont la preuve que le ciel n’a jamais appartenu à personne. » - Proverbe du Pays du Vent*
+
+***
+
+## Liste : Ermite des Aigles
+
+> *Cette liste se limite aux joueurs actifs, et non ceux qui pourraient avoir été ermite dans le lore passif comme pour les listes des Kages.*
+
+* Kinjo Jinsei ♂️💀
+* Sahen Kafu ♂️💀
+* Akari Jinsei ♂️
+* Jiyu ♂️
+* Barô Zen'In ♂️
+* Kazen Fuji ♂️
+* Raan Yamiuchi ♂️
+
+***

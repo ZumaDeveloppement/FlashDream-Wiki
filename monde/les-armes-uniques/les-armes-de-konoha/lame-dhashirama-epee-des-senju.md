@@ -1,0 +1,22 @@
+
+# 🪵・Lame d'Hashirama, Épée des Senju 🆕
+
+Avant d’être un symbole, avant même d’être une relique, la lame d’Hashirama était une arme de guerre forgée dans un temps où les clans ne connaissaient que le conflit et la survie. Transmise de génération en génération au sein des Senju, elle portait en elle l’héritage des anciens, leur maîtrise, leurs batailles, leurs pertes et leur détermination à ne jamais céder face à leurs ennemis. Elle n’était pas un simple objet, mais une continuité, un témoin silencieux de la violence du monde shinobi et de la place qu’y occupait le clan.&#x20;
+
+Cette épée accompagnait les chefs de clan, remise à ceux qui devaient porter le poids des décisions et guider les leurs dans un environnement marqué par l’instabilité permanente. Recevoir cette lame signifiait accepter une responsabilité lourde, celle de protéger le clan, de répondre aux menaces, et de trancher lorsque aucune autre voie n’était possible. Son maniement exigeait bien plus que de la technique, car son poids, son équilibre et la manière dont elle canalisait le chakra demandaient une force physique réelle, une endurance constante et une discipline rigoureuse. Tous ne pouvaient prétendre la porter efficacement, mais les Senju, grâce à leurs cellules riches en vitalité, possédaient une résistance et une capacité d’adaptation qui leur permettaient de supporter cette exigence. Leur corps, naturellement endurant et stable, leur offrait la possibilité de répéter l’effort, d’encaisser la contrainte et d’atteindre une maîtrise que peu d’autres shinobi pouvaient égaler sans un entraînement d’envergure.
+
+Lorsque le père d’Hashirama fut tué par les Uchiha, le clan Senju s’inscrivit dans un schéma ancien qui ne laissait que peu de place à l’alternative. La perte appelait la vengeance, comme elle l’avait toujours fait, et aux yeux de tous, l’avenir d’Hashirama semblait déjà tracé. Héritier légitime, il devait recevoir la lame, reprendre le flambeau et prolonger ce que les générations précédentes avaient perpétué, répondre au sang par le sang et maintenir l’équilibre fragile imposé par la force.&#x20;
+
+L’arme lui fut donc remise dans cet esprit, et il l’accepta comme ses ancêtres avant lui. Elle devint son compagnon, présente dans ses entraînements comme sur les champs de bataille, prolongeant ses mouvements et sa volonté dans le combat. Il apprit à la manier avec précision, à en comprendre le rythme et les exigences, et s’en servit dans les affrontements qui opposaient les Senju à leurs ennemis. Fidèle à sa fonction, la lame tranchait sans hésitation, exécutant la volonté de son porteur comme elle l’avait toujours fait.&#x20;
+
+Cependant, au fil du temps, Hashirama développa une compréhension différente de ce qu’il portait réellement. Là où ses ancêtres voyaient un instrument nécessaire à la survie du clan, il commença à percevoir la répétition d’un cycle dont personne ne sortait vainqueur. Chaque coup porté, chaque vie prise, ne constituait pas une conclusion, mais la continuité d’un conflit qui se nourrissait de lui-même, et dont la mort de son père n’était qu’une manifestation parmi d’autres.&#x20;
+
+Dans cette prise de conscience réside la rupture qui définit son héritage. Hashirama ne rejeta pas la lame, car il comprenait sa nécessité dans un monde encore marqué par la violence, mais il refusa de lui accorder le rôle central que le clan attendait d’elle. L’épée cessa d’être un vecteur de vengeance pour devenir un simple outil, subordonné à une vision plus large dans laquelle la destruction ne constituait plus une réponse systématique.&#x20;
+
+C’est à partir de cette évolution qu’émergea une autre voie, dans laquelle la construction prit progressivement le pas sur la destruction. Plutôt que de prolonger la guerre, Hashirama chercha à en rompre la logique, à imposer une alternative là où tous voyaient une continuité inévitable. Cette décision ne fut ni immédiate ni dénuée de conflits, mais elle marqua un tournant majeur, non seulement pour le clan Senju, mais pour l’ensemble du monde shinobi.&#x20;
+
+La lame demeura, mais sa signification changea. Elle ne représentait plus uniquement l’héritage des guerres passées, mais le choix de celui qui l’avait portée sans s’y soumettre. Elle incarnait désormais une dualité fondamentale, celle de la capacité à trancher et celle, plus rare encore, de décider de ne pas le faire, même lorsque tout pousse à l’inverse.
+
+> *« Une lame peut mettre fin à une vie. Mais il faut bien plus que de l’acier pour mettre fin à une guerre. » - Hashirama Senju, Premier Hokage*
+
+***
