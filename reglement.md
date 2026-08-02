@@ -17,7 +17,7 @@ Sur ce serveur, le respect des règles est avant tout une marque de respect enve
 
 ***
 
-<h2 align="center"><a href="https://docs.google.com/document/d/1dO3PCbmay4i6_AtiyQcaY2wYgs7hlF24UjRb_yuMNRM/edit?usp=drivesdk"><mark style="color:$danger;">📍Accès au Règlement du Serveur en Cliquant Ici !</mark></a></h2>
+##
 
 {% hint style="danger" %}
 Toutes les règles indiquées dans le présent règlement peuvent entrainer des sanctions pour celui qui les enfreint. Le règlement est susceptible d'évoluer régulièrement.
