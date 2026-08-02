@@ -1,7 +1,4 @@
-
 # 🐚・Clan Hōzuki 🆕️
-
-<figure><img src="/files/O4OhBPuEshNN0sxghAzM" alt="" width="250"><figcaption></figcaption></figure>
 
 ## Histoire du Clan Hōzuki - La Royauté des Abysses 🆕️
 
@@ -9,7 +6,7 @@ Selon les légendes les plus anciennes du Pays de l’Eau, les Hōzuki ne seraie
 
 C’est de cette seconde légende que viendrait le symbole ancestral du clan : une palourde et une perle, image d’une beauté née dans l’obscurité, d’une noblesse formée par l’écrasement, d’une pureté qui ne doit rien au ciel mais tout à la pression des profondeurs. Pour les Hōzuki, cette origine n’a jamais été seulement un conte. Elle a nourri leur manière de se percevoir. Là où d’autres clans racontent descendre de guerriers, de chasseurs, de fondateurs ou de rois, eux aiment rappeler qu’ils viennent d’un lieu où aucun homme ordinaire ne peut survivre. Ils ne se voient pas comme un peuple ayant appris à dominer l’eau, mais comme une lignée que l’océan aurait rejetée à la surface pour qu’elle impose aux hommes la froideur des abysses.
 
-> *« La perle ne naît pas dans la lumière. Elle naît dans la pression, le silence et l’obscurité. Voilà pourquoi les Hōzuki ne demandent jamais la permission de briller. » - Archive Hōzuki*
+> _« La perle ne naît pas dans la lumière. Elle naît dans la pression, le silence et l’obscurité. Voilà pourquoi les Hōzuki ne demandent jamais la permission de briller. » - Archive Hōzuki_
 
 De ce mythe serait né leur pouvoir le plus célèbre : la Liquéfaction, ou Suika no Jutsu, cette capacité à transformer leur chair, leurs muscles, leurs organes et leur sang en une eau pure, défiant les lois ordinaires de la biologie. Un Hōzuki ne se contente pas de manipuler l’eau autour de lui. Il devient eau, se dissout, s’échappe, traverse les coups, reforme son corps et impose aux adversaires une vérité insupportable : il est difficile de tuer ce qui refuse de rester solide. Mais si ce pouvoir semble lié à leur sang, nul ne sait aujourd’hui comment il leur fut transmis. Les récits originels ont été effacés, volontairement brisés, noyés dans les archives ou enfermés dans des secrets que même certains anciens n’osent plus interroger.
 
@@ -21,7 +18,7 @@ Les Hōzuki furent donc des politiques dans le sens le plus complet et le plus i
 
 Cette intelligence froide leur permit de s’imposer auprès des marins, des pêcheurs, des civils, des pirates, des familles mineures et des grandes puissances de l’archipel. Personne ne pouvait totalement dissocier l’histoire du Pays de l’Eau de celle des Hōzuki, car ils avaient toujours été là, parfois visibles, parfois dissimulés derrière des intermédiaires, des dettes, des faveurs ou des menaces. Ils n’étaient pas toujours du bon côté de l’histoire, pas toujours du mauvais non plus, mais ils étaient presque toujours du côté où l’histoire finissait par s’écrire. Avec leur prestance, leur noblesse liquide, leur intelligence et leur cruauté polie, ils devinrent progressivement une sorte de famille royale sans couronne officielle, une aristocratie malsaine, brillante et venimeuse, convaincue que l’archipel avait besoin d’eux, même lorsqu’il les haïssait.
 
-> *« Les Hōzuki ne prennent pas toujours le trône. Parfois, ils se contentent de décider qui a le droit de s’y asseoir. » - Proverbe du Pays de l’Eau*
+> _« Les Hōzuki ne prennent pas toujours le trône. Parfois, ils se contentent de décider qui a le droit de s’y asseoir. » - Proverbe du Pays de l’Eau_
 
 Cette noblesse n’avait rien de sain. Derrière les soieries, les manières raffinées, les sourires et les titres, le clan entretenait une culture de domination froide, où l’affection elle-même pouvait devenir un outil et où la loyauté se mesurait autant par l’utilité que par le sang. Les Hōzuki aimaient se présenter comme ceux qui comprenaient mieux que les autres la nécessité de l’ordre, mais cet ordre plaçait toujours leur famille au centre. Ils parlaient d’équilibre lorsqu’ils contrôlaient les dettes, de paix lorsqu’ils avaient brisé les résistances, de stabilité lorsqu’ils avaient remplacé les ennemis par des obligés. Leur grandeur était réelle, mais elle avait le goût du sel, du secret et du sang dilué dans l’eau.
 
@@ -47,7 +44,7 @@ Selon les récits les plus sombres, Gendagetsu convoqua les chefs des Karatachi,
 
 Qu’il s’agisse d’un récit exact, d’une exagération volontaire ou d’une légende entretenue par les Hōzuki pour graver la peur dans les mémoires, une certitude demeure : Gendagetsu ressortit vivant de cette rencontre, et les trois autres chefs n’en revinrent jamais.
 
-> *« Gendagetsu n’a pas gagné une guerre. Il a retiré la tête de ceux qui auraient pu continuer à la mener. » - Archive de Kirigakure*
+> _« Gendagetsu n’a pas gagné une guerre. Il a retiré la tête de ceux qui auraient pu continuer à la mener. » - Archive de Kirigakure_
 
 À partir de cet instant, l’histoire du Pays de l’Eau bascula. Gendagetsu n’avait pas demandé la paix, il ne l’avait pas négociée, il ne l’avait pas obtenue par consentement. Il l’avait imposée en arrachant les chefs des trois plus grandes puissances rivales de l’archipel. Les Karatachi et les Hoshigaki, malgré la violence de l’acte, finirent par accepter le nouvel ordre. Ils comprirent que le rapport de force avait changé, que leurs dirigeants étaient morts, et qu’une guerre de vengeance risquait de les mener à l’anéantissement sans leur garantir la victoire. Ils rallièrent donc progressivement le projet de Kirigakure, non par amour des Hōzuki, mais parce que la loi du réel venait de s’imposer à eux avec la brutalité d’une lame.
 
@@ -61,7 +58,7 @@ Les traques se multiplièrent. Des groupes entiers furent arrachés à leurs vil
 
 Cette période demeure l’une des plus sombres de l’histoire du Pays de l’Eau. Elle ne fut pas une simple guerre de clans, mais une purge, une volonté d’effacer une présence entière de l’archipel afin que plus personne ne puisse incarner un refus durable face à Kirigakure. Les Hōzuki présentèrent cette violence comme une nécessité, une opération douloureuse mais indispensable pour empêcher le pays de retomber dans la guerre civile. Mais derrière les discours d’ordre et de sécurité, chacun comprenait ce qui se jouait réellement : il fallait briser les Yuki, non seulement dans leurs armées, mais dans leur droit même à appartenir au Pays de l’Eau.
 
-> *« Gendagetsu ne voulait pas seulement que les Yuki perdent. Il voulait que l’archipel apprenne à avoir peur de les sauver. » - Témoignage interdit du Pays de l’Eau*
+> _« Gendagetsu ne voulait pas seulement que les Yuki perdent. Il voulait que l’archipel apprenne à avoir peur de les sauver. » - Témoignage interdit du Pays de l’Eau_
 
 Les survivants comprirent qu’ils ne pourraient jamais vivre sous l’ordre que Gendagetsu bâtissait. Certains furent traqués jusqu’aux extrémités de l’archipel, d’autres disparurent dans les montagnes, les forêts froides ou les ports étrangers, mais une partie importante prit la mer vers le nord. Ils traversèrent des eaux glacées et hostiles jusqu’à atteindre le Pays des Neiges, où ils furent accueillis par le pouvoir local et finirent par transformer leur exil en nouvelle identité. Là-bas, ils fondèrent plus tard Yukigakure, non comme une simple extension de leur passé, mais comme une réponse à la blessure que Kiri leur avait infligée. Pour le Pays de l’Eau, leur départ fut présenté comme la disparition d’une menace. Pour les Yuki, il devint une mémoire de persécution, de fuite et de survie transmise de génération en génération.
 
@@ -73,7 +70,7 @@ Sous son autorité, les premières institutions de Kiri furent établies. Les H�
 
 Ainsi se dessine l’histoire des Hōzuki : celle d’un clan né, selon la légende, dans les abysses et les palourdes des profondeurs, devenu une aristocratie liquide, brillante et dangereuse, capable de transformer la politique en art de strangulation. Ils ont donné naissance à Kirigakure, mais ils ne l’ont pas offert au monde comme un rêve pur. Ils l’ont imposé comme une nécessité, avec l’orgueil de ceux qui se croient seuls capables de voir assez loin, et la cruauté de ceux qui acceptent de noyer tous ceux qui refusent de suivre le courant.
 
-> *« Les Hōzuki ont fondé Kiri comme on referme une main sur la gorge d’un pays : doucement d’abord, puis assez fort pour que plus personne n’oublie qui lui permet encore de respirer. » - Archive de la Brume*
+> _« Les Hōzuki ont fondé Kiri comme on referme une main sur la gorge d’un pays : doucement d’abord, puis assez fort pour que plus personne n’oublie qui lui permet encore de respirer. » - Archive de la Brume_
 
 ***
 
@@ -83,7 +80,7 @@ La culture du **clan Hōzuki** repose sur une conviction simple, presque maladiv
 
 Ils privilégient souvent les négociations, les pactes, les jeux d’influence, la diplomatie empoisonnée et les manœuvres de cour, mais il serait dangereux de les croire incapables de violence directe. Lorsque le sang doit couler, il coule. Les Hōzuki savent être froidement sanglants, non par impulsion, mais par nécessité calculée. Leur cruauté est rarement désordonnée : elle sert un objectif, envoie un message, ferme une porte ou rappelle à ceux qui l’auraient oublié que sous leurs manières nobles et leurs sourires polis demeure une famille née des profondeurs, capable de noyer ses ennemis sans trembler.
 
-> *« Un Hōzuki préfère gagner sans tuer. Mais lorsqu’il tue, c’est pour que les survivants comprennent pourquoi il aurait mieux valu céder. » - Archive du clan*
+> _« Un Hōzuki préfère gagner sans tuer. Mais lorsqu’il tue, c’est pour que les survivants comprennent pourquoi il aurait mieux valu céder. » - Archive du clan_
 
 Il n’existe pas, chez les Hōzuki, de lignées séparées comme peuvent en connaître d’autres clans. Le clan ne se divise pas officiellement entre guerriers, savants ou politiciens. Pourtant, au fil de son histoire, il a vu naître des profils très différents, tous orientés vers le même but. Certains Hōzuki furent des combattants redoutables, utilisant la **Liquéfaction** comme un avantage presque injuste contre le commun des mortels, traversant les lames, se reformant après les coups, frappant avec la fluidité et l’insaisissabilité de l’eau elle-même. D’autres furent des intellectuels, des scientifiques, des artistes, des diplomates ou des maîtres des intrigues, préférant les laboratoires, les salons, les archives et les conseils secrets aux champs de bataille.
 
@@ -97,7 +94,7 @@ Les Hōzuki savent également que régner ne suffit pas. Il faut être **aimés 
 
 Ainsi, la culture Hōzuki n’est pas celle d’une simple famille de shinobis, mais celle d’une aristocratie liquide, orgueilleuse et prédatrice. Ils peuvent prendre la forme du guerrier, du savant, du stratège, du mécène ou du tyran, mais tous portent la même certitude : le monde appartient à ceux qui savent le modeler avant que les autres ne comprennent qu’ils sont déjà pris dans le courant. Pour les Hōzuki, le trône n’est pas un rêve. C’est une destination, et tout ce qui se dresse entre eux et lui peut être négocié, acheté, manipulé, noyé ou brisé.
 
-> *« Les Hōzuki ne veulent pas seulement être proches du pouvoir. Ils veulent être l’eau dans laquelle le pouvoir apprend à respirer. » - Proverbe de Kiri*
+> _« Les Hōzuki ne veulent pas seulement être proches du pouvoir. Ils veulent être l’eau dans laquelle le pouvoir apprend à respirer. » - Proverbe de Kiri_
 
 ***
 
@@ -113,7 +110,7 @@ Cette singularité se manifeste par la **Liquéfaction**, pouvoir central du cla
 
 Ce pouvoir n’est pas une simple mutation pratique. Il est le reflet de l’origine abyssale du clan. Les anciennes légendes racontent que les Hōzuki émergèrent des profondeurs, peut-être formés dans des palourdes géantes, façonnés par la pression de l’eau comme des **perles humaines**. Même si nul ne sait ce que ces récits contiennent de vérité, les cellules Hōzuki semblent confirmer qu’une chose venue du fond de la mer a marqué leur chair. Elles ne rendent pas seulement le corps plus souple ou plus résistant : elles lui apprennent à ne plus obéir totalement aux lois de la matière.
 
-> *« Les Hōzuki ne se transforment pas en eau. Ils se souviennent qu’une part d’eux n’a jamais cessé de l’être. » - Archive de la Brume*
+> _« Les Hōzuki ne se transforment pas en eau. Ils se souviennent qu’une part d’eux n’a jamais cessé de l’être. » - Archive de la Brume_
 
 C’est cette propriété qui rend les cellules Hōzuki si précieuses, mais aussi si dangereuses. Car ce qui existe dans la chair peut être **volé**. Du sang, des tissus, de la moelle, des fragments d’organes ou des résidus liquéfiés peuvent être prélevés, conservés, étudiés, puis réimplantés dans un autre corps par des méthodes scientifiques avancées. En théorie, un individu extérieur au clan peut donc recevoir des cellules Hōzuki et devenir une forme artificielle de leur lignée. Il ne devient pas noble, il ne devient pas héritier, il ne devient pas réellement Hōzuki au regard du clan, mais son corps peut être forcé à accueillir une part de leur secret.
 
@@ -127,7 +124,7 @@ Au sein du clan, ces cellules ne sont donc pas perçues comme un simple avantage
 
 Ainsi, les cellules Hōzuki ne sont ni une bénédiction naturelle, ni un outil scientifique ordinaire. Elles sont la trace des **abysses** dans la chair humaine, une anomalie transmissible, volable, greffable, mais jamais totalement docile. Celui qui les intègre peut obtenir une résistance nouvelle, une souplesse monstrueuse, une imitation imparfaite de la Liquéfaction, peut-être même l’illusion de rejoindre l’héritage du clan. Mais la vérité demeure plus profonde : il n’a pas seulement introduit des cellules dans son corps. Il a invité une eau ancienne à décider, morceau par morceau, ce qui en lui mérite encore de rester solide.
 
-> *« Voler les cellules d’un Hōzuki, c’est croire qu’on peut tenir l’océan dans une fiole. Tôt ou tard, la fiole se brise, et l’océan se souvient qu’il n’a jamais appartenu à personne. » - Proverbe Hōzuki*
+> _« Voler les cellules d’un Hōzuki, c’est croire qu’on peut tenir l’océan dans une fiole. Tôt ou tard, la fiole se brise, et l’océan se souvient qu’il n’a jamais appartenu à personne. » - Proverbe Hōzuki_
 
 ***
 
@@ -147,28 +144,28 @@ Pour les Hōzuki, un Yokushin n’est pas seulement un serviteur. Il est une ext
 
 Ainsi, les Yokushin représentent l’un des plus grands mensonges politiques des Hōzuki. En les faisant passer pour un clan majeur, ils offrirent à Kiri l’illusion d’un nouvel équilibre, tout en plaçant dans l’ombre une force entièrement dépendante de leur sang, de leurs sceaux et de leur volonté. Les Yokushin ne sont pas la preuve que les Hōzuki savent inspirer la loyauté, ils sont la preuve qu’ils savent parfois la fabriquer.
 
-> *« Là où les autres clans cherchent des alliés, les Hōzuki ont préféré en créer un. » - Archive secrète du Clan Hōzuki*&#x20;
+> _« Là où les autres clans cherchent des alliés, les Hōzuki ont préféré en créer un. » - Archive secrète du Clan Hōzuki_
 
 ***
 
-## **Pour en apprendre plus sur le Clan** Hōzuki **:**&#x20;
+## **Pour en apprendre plus sur le Clan** Hōzuki **:**
 
-* [**Clan Yokushin**](/naruto/village/pays-de-leau-kiri/les-clans/clan-yokushin.md), Sombres Esclaves
-* [**Pays des Neiges, Yukigakure**](/naruto/monde/les-pays-passifs/pays-des-neiges-yuki.md)
-* [**Les 7 Epées de la Brume**](/naruto/monde/les-armes-uniques/les-armes-de-kiri.md), Volontée de Rangetsu Hōzuki
-* [**Genjutsu**](/naruto/monde/les-arts-ninja/genjutsu.md)
+* [**Clan Yokushin**](../../../naruto/village/pays-de-leau-kiri/les-clans/clan-yokushin.md), Sombres Esclaves
+* [**Pays des Neiges, Yukigakure**](../../../naruto/monde/les-pays-passifs/pays-des-neiges-yuki.md)
+* [**Les 7 Epées de la Brume**](../../../naruto/monde/les-armes-uniques/les-armes-de-kiri.md), Volontée de Rangetsu Hōzuki
+* [**Genjutsu**](../../../naruto/monde/les-arts-ninja/genjutsu.md)
 
 #### Liste des Mizukages :
 
-* [**Gendagetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 1er Mizukage & Fondateur
-* [**Rangetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 3ème Mizukage
-* [**Suigetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 5ème Mizukage
-* [**Reigetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 6ème Mizukage
-* [**Nagegetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 7ème Mizukage
-* [**Yogetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 8ème Mizukage
-* [**Kogetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 11ème Mizukage
-* [**Kyugetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 15ème Mizukage
-* [**Zungetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 17ème & 19ème Mizukage
-* [**Sudogetsu Hôzuki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 20ème Mizukage
+* [**Gendagetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 1er Mizukage & Fondateur
+* [**Rangetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 3ème Mizukage
+* [**Suigetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 5ème Mizukage
+* [**Reigetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 6ème Mizukage
+* [**Nagegetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 7ème Mizukage
+* [**Yogetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 8ème Mizukage
+* [**Kogetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 11ème Mizukage
+* [**Kyugetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 15ème Mizukage
+* [**Zungetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 17ème & 19ème Mizukage
+* [**Sudogetsu Hôzuki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 20ème Mizukage
 
 ***

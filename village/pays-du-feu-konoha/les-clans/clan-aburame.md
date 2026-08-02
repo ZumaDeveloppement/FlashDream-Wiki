@@ -1,7 +1,4 @@
-
 # 🪲・Clan Aburame 🆕
-
-<figure><img src="/files/62FQpI7hZs6mEeUXuD1C" alt="" width="250"><figcaption></figcaption></figure>
 
 ## Histoire du Clan Aburame - Les Maîtres des Essaims 🆕
 
@@ -9,7 +6,7 @@ Narrer l’histoire du clan Aburame, c’est remonter à l’une des mémoires l
 
 Leur terre d’origine était une région dense, fertile et humide, où la lumière du jour filtrait difficilement à travers les feuillages, où les sols noirs retenaient l’eau et où chaque arbre semblait abriter une colonie, une larve, une reine ou un nid. C’est là, dans ces forêts anciennes, que vivaient en abondance les Kikaichu, insectes capables de se nourrir de chakra et de répondre à des formes de symbiose que nul autre peuple ne parvint jamais à comprendre totalement. Encore aujourd’hui, aucune archive ne permet d’affirmer avec certitude si les Aburame furent les premiers à approcher ces insectes, ou si les Kikaichu eux-mêmes reconnurent en eux des hôtes dignes de porter leur existence. Les anciens du clan évitaient de trancher cette question, car, pour eux, chercher à savoir qui avait possédé l’autre revenait déjà à mal comprendre la nature du pacte.
 
-> *« Les étrangers disent que nous contrôlons les insectes, mais un Aburame sait qu’une symbiose ne commence jamais par la domination. Elle commence lorsque deux formes de vie acceptent de survivre ensemble. » - Archives Aburame*
+> _« Les étrangers disent que nous contrôlons les insectes, mais un Aburame sait qu’une symbiose ne commence jamais par la domination. Elle commence lorsque deux formes de vie acceptent de survivre ensemble. » - Archives Aburame_
 
 Cette proximité avec les Kikaichu fit très tôt des Aburame un clan singulier, moins porté vers la conquête que vers la préservation. Contrairement à beaucoup de familles du futur Pays du Feu, ils ne cherchèrent pas à étendre leur territoire par ambition, ni à imposer leur nom dans les guerres civiles qui dévoraient la région. Ils vivaient dans un équilibre fragile avec leurs forêts, protégeant autant leurs propres descendants que les colonies d’insectes auxquelles leur survie était liée. Cette discrétion, pourtant, ne les rendit jamais invisibles aux yeux de ceux qui convoitaient ce qu’ils possédaient. Les Kikaichu fascinaient, inquiétaient et attiraient, car leurs applications militaires étaient immenses : infiltration, pistage, sabotage, absorption de chakra, transmission d’informations, détection de présences, guerre d’usure. Beaucoup rêvèrent de les capturer, de les étudier ou de les arracher à ceux qui semblaient les comprendre mieux que personne.
 
@@ -17,7 +14,7 @@ Parmi ces ennemis, aucun ne marqua autant l’histoire des Aburame que le clan K
 
 La haine des Kamizuru envers les Aburame ne naquit pas seulement d’un conflit territorial. Elle plongeait ses racines dans une rivalité plus profonde, presque existentielle. Dans de nombreux cercles militaires, on disait déjà que les Kikaichu surpassaient les abeilles Kamizuru dans l’usage shinobi, non par beauté ou par noblesse, mais par efficacité pure. Pour un clan dont la culture reposait sur l’excellence de ses essaims, l’idée qu’un autre peuple puisse détenir des insectes jugés supérieurs relevait de l’inacceptable. Les Kamizuru, attachés à l’ordre, à la hiérarchie et à la perfection de leurs ruches, ne pouvaient concevoir que la forme la plus redoutable de guerre insectoïde soit née dans des forêts silencieuses, entre les mains d’un clan qui refusait même de se présenter comme conquérant.
 
-> *« Ils ne nous haïssaient pas parce que nous les avions attaqués. Ils nous haïssaient parce que notre existence contredisait leur certitude d’être les seuls maîtres des essaims. » - Shigure Aburame*
+> _« Ils ne nous haïssaient pas parce que nous les avions attaqués. Ils nous haïssaient parce que notre existence contredisait leur certitude d’être les seuls maîtres des essaims. » - Shigure Aburame_
 
 Tandis que les autres clans du Pays du Feu se battaient entre eux pour des querelles d’héritage, de domination ou de survie, les Aburame furent donc confrontés à une menace venue de l’extérieur, avant même que les guerres entre nations ne deviennent la structure dominante du monde shinobi. Les Kamizuru profitèrent des divisions du Pays du Feu pour lancer des offensives répétées contre les forêts du nord, espérant capturer des colonies de Kikaichu, briser les lignées d’hôtes et effacer la source même de cette rivalité. Les Aburame résistèrent avec la patience froide qui allait devenir leur marque, transformant leurs bois en pièges vivants, en réseaux d’alerte et en champs de bataille invisibles où chaque branche, chaque souche et chaque nid pouvait annoncer une contre-attaque.
 
@@ -27,7 +24,7 @@ C’est dans ce contexte que le projet d’Hashirama Senju prit une importance d
 
 Lorsque les attaques des Kamizuru s’intensifièrent, Hashirama mena les clans ralliés vers les frontières du nord afin de secourir les Aburame et de repousser les forces venues du futur Pays de la Terre. Cette intervention marqua un tournant fondamental, car, pour la première fois, les clans du Pays du Feu ne levèrent pas les armes les uns contre les autres, mais pour défendre ensemble une terre commune. Les Kamizuru, qui n’avaient pas su fédérer de la même manière les clans de leurs propres régions, se heurtèrent à une alliance nouvelle, encore imparfaite, mais assez puissante pour les contraindre à reculer. Leur défaite ne fut pas seulement militaire : elle démontra que l’avenir appartenait désormais aux peuples capables de s’unir.
 
-> *« Le jour où Hashirama vint dans nos forêts, il ne nous demanda pas de nous incliner. Il nous prouva seulement qu’un clan isolé peut survivre longtemps, mais qu’un village peut protéger ce qu’un clan seul finit toujours par perdre. » - Shigure Aburame*
+> _« Le jour où Hashirama vint dans nos forêts, il ne nous demanda pas de nous incliner. Il nous prouva seulement qu’un clan isolé peut survivre longtemps, mais qu’un village peut protéger ce qu’un clan seul finit toujours par perdre. » - Shigure Aburame_
 
 Les Aburame rejoignirent alors le projet de Konohagakure avec une loyauté particulière, non pas celle d’un clan vaincu ou soumis, mais celle d’un peuple qui savait exactement ce qu’il devait à cette alliance. Shigure Aburame, chef au génie froid et calculateur, considéra qu’une dette liait désormais son clan à Hashirama Senju. Il ne chercha pas à la rembourser par des démonstrations de puissance ou par une gloire visible, mais en devenant ce que Konoha avait besoin qu’il soit : un conseiller de l’ombre, un maître du renseignement, une présence capable de voir les fissures politiques avant qu’elles ne deviennent des ruptures.
 
@@ -35,7 +32,7 @@ Aux côtés d’Hashirama, Shigure joua un rôle discret mais déterminant dans 
 
 Son rôle fut particulièrement sensible dans les rapports avec les Uchiha. Alors que Madara représentait à la fois une force fondatrice et une menace potentielle pour l’équilibre du jeune village, Shigure infiltra discrètement certains cercles proches du clan afin d’anticiper les mouvements politiques susceptibles de fragiliser Konoha. Il ne le fit pas par haine des Uchiha, mais parce qu’il estimait qu’un village naissant ne survivrait pas si ses fondateurs eux-mêmes devenaient aveugles aux fractures qui grandissaient sous leurs pieds. Hashirama et Tobirama purent ainsi maintenir, pendant un temps, un équilibre qui aurait pu s’effondrer bien plus tôt sans les informations venues des essaims et des réseaux Aburame.
 
-> *« Les Aburame ne regardent pas le monde pour le juger. Ils l’observent pour comprendre à quel moment il risque de se briser. » - Archives de Konoha*
+> _« Les Aburame ne regardent pas le monde pour le juger. Ils l’observent pour comprendre à quel moment il risque de se briser. » - Archives de Konoha_
 
 Shigure entretint également des rapports respectueux avec les Hyuga, dont il reconnaissait la discipline, l’ancienneté et l’importance dans la structure de Konoha. Pourtant, cette estime ne l’empêcha pas de critiquer le sceau de l’Oiseau en Cage, qu’il considérait comme une entrave dangereuse déguisée en tradition. Les archives racontent même qu’il intervint une fois pour protéger un membre en fuite de la branche secondaire, geste rare et risqué, qui renforça paradoxalement la confiance entre certains Hyuga et les Aburame. Pour Shigure, une colonie solide ne se bâtissait pas sur la peur de ses membres, mais sur la conscience partagée que chacun avait une place et un rôle.
 
@@ -51,7 +48,7 @@ Il ne reconstruisit pas le clan par orgueil, mais par fidélité. Il rassembla l
 
 Ainsi, de Shigure à Shinzo, l’histoire du clan Aburame s’est construite sans fracas, sans volonté de dominer les chroniques et sans besoin de se placer au centre du mythe de Konoha. Leur grandeur réside ailleurs, dans leur capacité à protéger ce qui doit l’être avant que le danger ne devienne visible, dans leur fidélité à des insectes que d’autres auraient voulu voler ou détruire, et dans cette manière unique de faire corps avec leur village sans jamais réclamer la lumière. Comme avec les Kikaichu, les Aburame ont fini par entretenir avec Konoha une forme de symbiose : discrète, vitale, parfois incomprise, mais absolument indispensable à la survie de l’ensemble.
 
-> *« Les grandes familles se reconnaissent parfois à leurs statues, à leurs murs ou à leurs héros. Les Aburame, eux, se reconnaissent au fait que le village respire encore sans savoir combien d’ailes veillent dans son ombre. » - Archives du clan Aburame*
+> _« Les grandes familles se reconnaissent parfois à leurs statues, à leurs murs ou à leurs héros. Les Aburame, eux, se reconnaissent au fait que le village respire encore sans savoir combien d’ailes veillent dans son ombre. » - Archives du clan Aburame_
 
 ***
 
@@ -63,7 +60,7 @@ Cette absence de hiérarchie interne n’est pas seulement une posture sociale, 
 
 Cette philosophie vient directement de leur rapport aux insectes. Dans une colonie, aucune créature n’existe totalement seule, et aucune ne peut prétendre porter l’ensemble de la ruche sans les autres. Certains essaims sont plus rares, plus redoutés ou plus prestigieux, mais cette rareté ne signifie pas qu’ils valent davantage qu’un essaim commun. Un Aburame lié à des Kikaichu standards peut devenir l’un des plus grands maîtres du clan, précisément parce que sa symbiose est plus stable, plus naturelle et plus facile à approfondir. À l’inverse, un porteur d’insectes rares peut connaître une existence plus difficile, car une évolution particulière apporte autant de contraintes que de puissance.
 
-> *« Un insecte rare n’est pas toujours une bénédiction. Parfois, il est seulement une question plus difficile posée à son porteur. » - Archive Aburame*
+> _« Un insecte rare n’est pas toujours une bénédiction. Parfois, il est seulement une question plus difficile posée à son porteur. » - Archive Aburame_
 
 Les Aburame considèrent ainsi les espèces spécialisées non comme des lignées supérieures, mais comme des **évolutions singulières** des Kikaichu originels. Ces évolutions apparaissent parfois chez certains porteurs à la naissance, ou au cours de transmissions anciennes dont le clan ne comprend pas toujours pleinement l’origine. Elles peuvent naître d’une adaptation de l’essaim à un environnement, d’une mutation rare, d’un instinct particulier ou d’une compatibilité inhabituelle entre le corps du porteur et la colonie qu’il accueille. Ce mystère nourrit depuis longtemps l’inquiétude des Kamizuru, car là où leurs abeilles répondent à une logique d’ordre, de hiérarchie et de contrôle, les Kikaichu semblent capables d’emprunter des voies imprévisibles, de se transformer et de produire des formes nouvelles que personne n’avait planifiées.
 
@@ -77,21 +74,21 @@ Les **Kikaichu** constituent l’espèce originelle et la plus répandue au sein
 
 Les **Rinkaichu**, à l’inverse des Kikaichu, comptent parmi les évolutions les plus rares et les plus difficiles à porter. Leur taille microscopique les rend presque impossibles à détecter à l’œil nu, et leur comportement s’apparente moins à celui d’une nuée classique qu’à une toxine vivante, acide et invasive. Lorsqu’ils sont transmis par contact physique, ils peuvent envahir le corps d’une cible et provoquer des douleurs intenses, semblables à des brûlures se répandant sous la peau, accompagnées de lésions et de séquelles pouvant persister longtemps après l’exposition. Leur danger vient du fait qu’ils ne sont ni malveillants ni véritablement loyaux au sens humain du terme : ils suivent leur instinct de propagation, sans distinguer naturellement les alliés des ennemis. Les porteurs de Rinkaichu vivent donc souvent dans une prudence permanente, contraints de limiter les contacts physiques, de porter des vêtements couvrants et de développer une distance sociale qui peut devenir une solitude imposée.
 
-> *« Certains Aburame apprennent à commander leur essaim. Les porteurs de Rinkaichu apprennent d’abord à ne pas condamner ceux qu’ils aiment par accident. » - Note médicale du clan*
+> _« Certains Aburame apprennent à commander leur essaim. Les porteurs de Rinkaichu apprennent d’abord à ne pas condamner ceux qu’ils aiment par accident. » - Note médicale du clan_
 
-### **Iyakaichu**&#x20;
+### **Iyakaichu**
 
 Les **Iyakaichu** représentent une évolution beaucoup plus protectrice des Kikaichu. Là où d’autres espèces se spécialisent dans l’affaiblissement ou la destruction, les Iyakaichu ont développé un instinct de préservation particulièrement fort envers leur hôte. Ils considèrent son corps comme leur ruche principale et réagissent instinctivement aux blessures, aux inflammations, à la fatigue ou aux affections mineures en se regroupant autour des zones fragilisées pour favoriser la récupération. Ils ne produisent pas de miracles et ne remplacent pas un véritable ninjutsu médical, mais leur présence peut accélérer la guérison, stabiliser certaines blessures et permettre à leur porteur de récupérer plus vite que la normale. Avec un entraînement avancé, un Aburame peut apprendre à envoyer une partie de ses Iyakaichu dans le corps d’un autre individu afin de reproduire temporairement ce comportement de protection, mais cette pratique exige un contrôle remarquable, car ces insectes restent profondément attachés au corps de leur porteur initial.
 
-### **Kidaichu**&#x20;
+### **Kidaichu**
 
 Les **Kidaichu** sont sans doute l’une des évolutions les plus redoutées du clan, car ils ne se nourrissent pas seulement de chakra, mais de chair et de sang. Leur instinct prédateur en fait une arme terrifiante sur un champ de bataille, capable de dévorer une cible avec une efficacité qui laisse parfois derrière elle moins un cadavre qu’une trace d’ossements. Pourtant, leur puissance a un coût immense. Un essaim de Kidaichu doit être nourri régulièrement, et lorsqu’il manque de nourriture, il peut retourner son appétit contre son propre hôte. Le porteur ne vit donc pas avec la simple crainte de blesser les autres, mais avec celle de devenir lui-même la proie de sa colonie. Ceux qui survivent à cette symbiose développent souvent une force mentale exceptionnelle, car les Kidaichu reconnaissent la domination, la volonté et la capacité à s’imposer comme prédateur au sein même du pacte. Ces Aburame comptent parfois parmi les plus puissants du clan, non parce qu’ils seraient d’une lignée supérieure, mais parce qu’ils ont dû survivre à une symbiose qui aurait détruit la plupart des autres.
 
-### **Bikochu**&#x20;
+### **Bikochu**
 
 Les **Bikochu** sont une espèce spécialisée dans le pistage, dotée d’un odorat exceptionnel et d’une capacité à suivre une trace sur de très longues distances. Leur réputation vient de leur faculté à s’attacher à une odeur au point d’en faire une obsession, poursuivant parfois une piste avec une ténacité presque inquiétante. Leur perception ne se limite cependant pas aux odeurs physiques : les Bikochu semblent capables d’associer les émotions à des signatures olfactives particulières, comme si la peur, la colère, la tristesse ou la joie laissaient dans l’air une empreinte que leur porteur apprend peu à peu à interpréter. Cette symbiose influence profondément les Aburame qui les hébergent. Exposés en permanence aux nuances émotionnelles de leur entourage, ils développent souvent une empathie inhabituelle pour le clan, une sensibilité sociale plus marquée et un attachement durable aux personnes dont les odeurs deviennent familières à leur essaim.
 
-### **Kochu**&#x20;
+### **Kochu**
 
 Les **Kochu** forment une variante particulièrement trompeuse des Kikaichu, car leur apparence reste si proche de celle des essaims standards qu’il est difficile, même pour un Aburame expérimenté, de les distinguer au premier regard. Cette similarité a longtemps conduit à des erreurs chez les jeunes porteurs, parfois considérés comme maladifs ou fragiles sans que l’on comprenne immédiatement que leur propre essaim était à l’origine du trouble. Les Kochu sont naturellement toxiques : leur morsure, ou parfois leur simple présence prolongée sur une cible, diffuse un poison discret qui s’accumule lentement dans l’organisme. Fièvres, affaiblissement, paralysie progressive et effondrement complet du corps peuvent survenir sans qu’aucune attaque évidente ne soit identifiée. Cette propriété en fait des outils redoutables pour l’infiltration et l’assassinat, mais elle rend leur apprentissage dangereux, car le porteur doit comprendre très tôt comment empêcher son essaim de transformer sa proximité en menace involontaire.
 
@@ -99,7 +96,7 @@ Ce bestiaire n’est pas considéré comme définitif par les Aburame eux-mêmes
 
 Ainsi, le clan Aburame ne classe pas ses membres selon la rareté de leurs insectes, mais selon la profondeur de leur symbiose. Un porteur de Kikaichu ordinaires peut devenir un maître absolu du contrôle d’essaim, tandis qu’un porteur de Kidaichu, de Rinkaichu ou de Kochu peut passer sa vie à lutter contre les dangers de sa propre colonie. L’importance d’un Aburame ne se mesure donc pas à l’étrangeté de ses insectes, mais à sa capacité à vivre avec eux sans rompre l’équilibre du pacte. Dans cette philosophie, chaque essaim compte, chaque porteur a sa place, et le clan tout entier demeure une seule grande colonie, discrète, diverse et indispensable.
 
-> *« Les Hyuga ont regardé leur sang pour y chercher leur ordre. Les Aburame ont regardé leurs essaims, et ils y ont trouvé une vérité plus ancienne : aucune colonie ne survit en méprisant l’un de ses membres. » - Archives Aburame*
+> _« Les Hyuga ont regardé leur sang pour y chercher leur ordre. Les Aburame ont regardé leurs essaims, et ils y ont trouvé une vérité plus ancienne : aucune colonie ne survit en méprisant l’un de ses membres. » - Archives Aburame_
 
 ***
 
@@ -113,7 +110,7 @@ Nul ne sait réellement comment les premières **symbioses** eurent lieu. Les ar
 
 Ce qui est certain, en revanche, c’est qu’après cette première union, les ancêtres du clan jurèrent de protéger le Jardin. Leur lien avec les Kikaichu ne fut jamais compris comme une simple technique ou un avantage militaire. Il s’agissait d’un pacte. Les insectes offraient leur puissance, leur perception, leur nombre et leur capacité à absorber le chakra ; les Aburame, en retour, devaient préserver le lieu d’où ils venaient. Le corps Aburame devint un foyer pour les Kikaichu, mais le Jardin demeura leur première maison. De la même manière que les insectes vivent dans les membres du clan, le clan lui-même vit encore symboliquement dans cette forêt.
 
-> *« Le corps d’un Aburame porte l’essaim. Mais le Jardin, lui, porte le commencement de tous les essaims. » - Archive Aburame*
+> _« Le corps d’un Aburame porte l’essaim. Mais le Jardin, lui, porte le commencement de tous les essaims. » - Archive Aburame_
 
 Le Jardin est également une source de ressources inestimables. Certaines plantes, certains champignons, certaines résines et certains minéraux n’y existent que parce que les colonies d’insectes y maintiennent un équilibre particulier. Les Aburame y récoltent avec une prudence extrême des matériaux nécessaires à l’entretien des essaims, à la médecine du clan, à la stabilisation de certaines espèces rares et à la transmission des symbioses les plus délicates. Rien n’y est pris sans raison, car le Jardin n’est pas une réserve à vider, mais un organisme à maintenir. Prélever trop, c’est risquer de troubler des équilibres que même les anciens ne prétendent pas toujours comprendre.
 
@@ -127,14 +124,14 @@ Personne ne peut réellement accéder au Jardin sans que les anciens du clan le 
 
 Ainsi, le Jardin demeure l’un des lieux les plus importants du clan Aburame. Il est à la fois berceau, sanctuaire, réserve, mémoire et frontière sacrée. Les Aburame peuvent vivre à Konoha, servir le village, mener des missions loin du Pays du Feu et mourir sur des champs de bataille inconnus, mais leur lien le plus ancien reste enraciné dans cette forêt du nord-ouest, là où les Kikaichu vivaient avant eux et où les premiers corps Aburame devinrent des foyers. Tant que le Jardin survit, le clan se souvient de ce qu’il est réellement : non pas des maîtres d’insectes, mais les gardiens d’une symbiose née dans l’ombre des arbres.
 
-> *« Les Kamizuru ont voulu nos secrets. D’autres voudront nos ressources. Mais le Jardin n’appartient pas à ceux qui le désirent. Il appartient à ceux que les Kikaichu acceptent de reconnaître. » - Parole d’un ancien Aburame*
+> _« Les Kamizuru ont voulu nos secrets. D’autres voudront nos ressources. Mais le Jardin n’appartient pas à ceux qui le désirent. Il appartient à ceux que les Kikaichu acceptent de reconnaître. » - Parole d’un ancien Aburame_
 
 ***
 
-## **Pour en apprendre plus sur le Clan Aburame :**&#x20;
+## **Pour en apprendre plus sur le Clan Aburame :**
 
 #### Liste des Hokages :
 
-* [**Reizin Aburame**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 15ème Hokage
+* [**Reizin Aburame**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 15ème Hokage
 
 ***

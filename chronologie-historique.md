@@ -1,3 +1,7 @@
+---
+coverY: 0
+coverHeight: 239
+---
 
 # 🗓️・Chronologie Historique 🆕
 
@@ -7,7 +11,7 @@
 
 * **HRP :** Semaine du 13/07/2026
 
-<mark style="color:$info;">À savoir que le serveur</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**FlashDream**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">a ouvert ses portes le</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**mercredi 30 octobre 2024**</mark><mark style="color:$info;">, soit il y a</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**90 semaines HRP**</mark><mark style="color:$info;">, correspondant à</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**90 années IRP**</mark><mark style="color:$info;">. Parmi elles,</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**30 années se sont écoulées passivement**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">sous les mandats successifs d’</mark><mark style="color:$info;">**Hashirama Senju**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">et de</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**Tobirama Senju**</mark><mark style="color:$info;">.</mark>
+<mark style="color:$info;">À savoir que le serveur</mark> <mark style="color:$info;">**FlashDream**</mark> <mark style="color:$info;">a ouvert ses portes le</mark> <mark style="color:$info;">**mercredi 30 octobre 2024**</mark><mark style="color:$info;">, soit il y a</mark> <mark style="color:$info;">**90 semaines HRP**</mark><mark style="color:$info;">, correspondant à</mark> <mark style="color:$info;">**90 années IRP**</mark><mark style="color:$info;">. Parmi elles,</mark> <mark style="color:$info;">**30 années se sont écoulées passivement**</mark> <mark style="color:$info;">sous les mandats successifs d’</mark><mark style="color:$info;">**Hashirama Senju**</mark> <mark style="color:$info;">et de</mark> <mark style="color:$info;">**Tobirama Senju**</mark><mark style="color:$info;">.</mark>
 
 ***
 
@@ -25,7 +29,7 @@ Nul ne sait réellement ce qu’il existait avant le **Chaos Originel**. Peut-ê
 
 Le Chaos Originel fut donc l’âge de la brutalité première, un temps où l’humanité avançait dans l’obscurité, déchirée par ceux qui possédaient la force, la cruauté ou les moyens d’écraser les autres. C’est de cette période que viennent certaines des peurs les plus anciennes du monde : la peur des tyrans, des monstres, des clans primitifs, des seigneurs sans loi et des puissances capables de transformer la vie humaine en simple ressource.
 
-> *« Avant que les hommes apprennent à bâtir, ils apprirent à survivre. Avant qu’ils apprennent à prier, ils apprirent à saigner. » - Fragment ancien*
+> _« Avant que les hommes apprennent à bâtir, ils apprirent à survivre. Avant qu’ils apprennent à prier, ils apprirent à saigner. » - Fragment ancien_
 
 ***
 
@@ -39,7 +43,7 @@ Guidés par les **moines du Ninshû**, les hommes apprirent à utiliser le chakr
 
 Cette période est considérée comme la plus longue paix connue à ce jour. Elle ne fut sans doute pas parfaite, car aucun âge humain ne l’est vraiment, mais elle demeure dans les mémoires comme un temps où le chakra rapprocha les hommes au lieu de les diviser. Pendant longtemps, les peuples crurent que l’humanité avait enfin échappé au désordre du Chaos Originel. Mais même les plus longues paix finissent par se fissurer lorsque les hommes oublient pourquoi elles furent nécessaires.
 
-> *« Le Ninshû fut le temps où le chakra servait à tendre la main avant de former un poing. » - Enseignement monastique*
+> _« Le Ninshû fut le temps où le chakra servait à tendre la main avant de former un poing. » - Enseignement monastique_
 
 ***
 
@@ -53,7 +57,7 @@ Cette période fut extrêmement longue, presque interminable. Pour ceux qui la v
 
 C’est durant cette période que le chakra changea de sens. Ce qui avait été le **Ninshû**, une voie de défense, d’harmonie, de protection et d’utilité commune, devint peu à peu le **Ninjutsu**, une utilisation guerrière, militaire et stratégique du chakra. Les hommes ne l’employèrent plus seulement pour se réchauffer, cultiver, soigner ou construire, mais pour tuer plus vite, frapper plus loin, défendre des frontières, conquérir des terres et imposer la volonté de leur clan. L’humanité n’avait pas perdu le chakra. Elle avait perdu la mémoire de ce qu’il devait être.
 
-> *« Le Ninshû avait appris aux hommes à survivre ensemble. Le Ninjutsu leur apprit à se vaincre les uns les autres. » - Archive ancienne*
+> _« Le Ninshû avait appris aux hommes à survivre ensemble. Le Ninjutsu leur apprit à se vaincre les uns les autres. » - Archive ancienne_
 
 ***
 
@@ -69,6 +73,6 @@ C’est à partir de cette période que le calendrier moderne fut établi. L’*
 
 Ainsi, les grandes périodes du monde racontent moins une marche parfaite vers la paix qu’un cycle de transformation. Le **Chaos Originel** fut l’âge de la survie. Le **Ninshû** fut l’âge de l’harmonie et du chakra partagé. La **Période des Clans** fut l’âge des frontières, des héritages et du Ninjutsu guerrier. La **Période des Pays et des Villages Ninjas** est celle de l’ordre actuel, où les hommes ont appris à unir leurs forces sous des bannières plus grandes, sans jamais totalement éteindre les flammes anciennes de la guerre.
 
-> *« Le monde n’a jamais cessé de changer de nom. Chaos, paix, nations, villages… mais sous chaque époque demeure la même question : les hommes utiliseront-ils leur pouvoir pour bâtir, ou pour recommencer à détruire ? » - Chronique historique*
+> _« Le monde n’a jamais cessé de changer de nom. Chaos, paix, nations, villages… mais sous chaque époque demeure la même question : les hommes utiliseront-ils leur pouvoir pour bâtir, ou pour recommencer à détruire ? » - Chronique historique_
 
 ***

@@ -1,3 +1,7 @@
+---
+coverY: 0
+coverHeight: 547
+---
 
 # 📌・Règlement
 
@@ -7,7 +11,7 @@ Vous trouverez ici l'ensemble des règles qui encadrent la vie du serveur. Elles
 
 Nous vous invitons à les lire attentivement avant de commencer votre aventure. Les connaître vous permettra non seulement d'éviter les erreurs, mais aussi de contribuer à une expérience de rôleplay de qualité pour l'ensemble de la communauté.
 
-> *« Dans le monde des ninjas, ceux qui ne respectent pas les règles sont des ordures. » - Un Ninja comme vous et moi*
+> _« Dans le monde des ninjas, ceux qui ne respectent pas les règles sont des ordures. » - Un Ninja comme vous et moi_
 
 Sur ce serveur, le respect des règles est avant tout une marque de respect envers les autres joueurs. Merci de contribuer, à votre échelle, à faire de cette communauté un lieu où chacun peut prendre plaisir à jouer.
 

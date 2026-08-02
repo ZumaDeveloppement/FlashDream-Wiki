@@ -1,7 +1,4 @@
-
-# 🦈・Clan Hoshigaki  🆕
-
-<figure><img src="/files/12PdeMAFGxTYK7iiySnb" alt="" width="250"><figcaption></figcaption></figure>
+# 🦈・Clan Hoshigaki 🆕
 
 ## Histoire du Clan Hoshigaki - Les Instincts Prédateurs🆕
 
@@ -9,7 +6,7 @@ Narrer l’histoire du **clan Hoshigaki**, c’est remonter à une époque où l
 
 Les habitants du Dock Sanglant n’étaient pas encore un clan. Ils n’avaient ni nom prestigieux, ni lignée reconnue, ni héritage shinobi à transmettre, seulement des bras marqués par les cordages, des mains durcies par le sel, des épaules rompues par les filets et une réputation qui dépassait déjà les autres villages côtiers. Ils étaient pêcheurs, chasseurs de requins, harponneurs et découpeurs de monstres marins, employés pour traquer les bêtes les plus dangereuses des mers de l’archipel. Leur travail était effroyable, la paie maigre, la mort fréquente, mais c’était ce qu’ils savaient faire, et dans un monde où la mer donnait rarement sans reprendre davantage, savoir revenir vivant constituait déjà une forme de noblesse.
 
-> *« Les hommes du Dock Sanglant ne priaient pas pour que la mer soit clémente. Ils priaient pour que leurs harpons tiennent plus longtemps que leurs os. » - Récit côtier du Pays de l’Eau*
+> _« Les hommes du Dock Sanglant ne priaient pas pour que la mer soit clémente. Ils priaient pour que leurs harpons tiennent plus longtemps que leurs os. » - Récit côtier du Pays de l’Eau_
 
 Très vite, ces chasseurs devinrent les plus réputés de l’archipel. Aucun équipage ne rapportait autant de prises, aucun harponneur ne semblait aussi capable de viser dans les vagues hautes, aucun navire ne s’aventurait aussi loin dans les zones où même les marins expérimentés refusaient de suivre. Ils chassaient les orques, les baleines, les dauphins, les requins et tout ce que l’océan pouvait offrir de massif, de rare ou de rentable. Leur succès fit leur richesse relative, puis leur orgueil, et cet orgueil les conduisit à confondre courage et droit de possession. À force de survivre à la mer, ils finirent par croire qu’elle leur appartenait un peu.
 
@@ -25,7 +22,7 @@ C’est alors que l’océan vibra.
 
 Une onde profonde remonta depuis les abysses, lourde, lente, inhumaine, comme si quelque chose sous le monde venait de se réveiller. Les bulles crevèrent la surface en un maelström blanc, la coque fut poussée de côté par une lame de fond, et les cordages attachés au premier requin se détendirent soudain, non parce que la bête avait cessé de lutter, mais parce que quelque chose de plus grand venait d’entrer dans la chasse. La créature qu’ils avaient capturée n’était pas la légende. Elle n’était peut-être qu’un jeune, un leurre, un appel, ou simplement une proie assez vaste pour attirer son maître. Le véritable monstre surgit des profondeurs, un requin sorti des âges anciens, si immense que la mer sembla se soulever pour lui faire place.
 
-> *« Ce soir-là, ils comprirent que l’océan n’avait jamais été leur terrain de chasse. Ils n’étaient que des hommes ayant nagé trop longtemps au-dessus de la gueule d'Isonade. » - Chronique du Dock Sanglant*
+> _« Ce soir-là, ils comprirent que l’océan n’avait jamais été leur terrain de chasse. Ils n’étaient que des hommes ayant nagé trop longtemps au-dessus de la gueule d'Isonade. » - Chronique du Dock Sanglant_
 
 Le navire fut brisé comme un jouet. Les planches éclatèrent, les mâts tombèrent, les hommes furent projetés dans l’eau noire, et le monstre commença à les dévorer les uns après les autres avec une lenteur qui ressemblait presque à un jugement. Ceux qui survivaient assez longtemps virent leurs frères disparaître dans la gueule du requin, entendirent les cris se mêler au fracas des vagues, sentirent l’eau se réchauffer autour d’eux à mesure que le sang couvrait la surface. La mer entière sembla se teinter de rouge, et seule la lumière de la lune parvenait encore à traverser cette nappe sanglante, dessinant sous l’eau des reflets pâles sur les corps qui coulaient.
 
@@ -43,7 +40,7 @@ Pourtant, cette sauvagerie ne dura pas éternellement. Peu à peu, les anciens p
 
 Ensemble, les transformés du Dock Sanglant formèrent ce qui serait plus tard reconnu comme le **clan Hoshigaki**. Leur lien au requin, à l’eau profonde et à la prédation leur donna une place unique dans l’archipel. Une fois leur instinct maîtrisé, ils dominèrent les mers comme personne avant eux. Pour les marins du Pays de l’Eau, leur influence devint immense, car les routes maritimes, les créatures des profondeurs et les violences de l’océan semblaient naturellement répondre à leur présence. Un navire protégé par les Hoshigaki avait plus de chances de survivre aux eaux sombres, aux attaques de monstres marins et aux tempêtes, mais chacun savait également que cette protection avait un prix. Avec eux, le Pays de l’Eau ne ressemblait pas à une nation à bâtir, mais à une mer à conquérir.
 
-> *« Les Hoshigaki ne promettaient pas une mer calme. Ils promettaient que, si quelque chose devait surgir des profondeurs, ce serait eux qui mordraient les premiers. » - Archive maritime du Pays de l’Eau*
+> _« Les Hoshigaki ne promettaient pas une mer calme. Ils promettaient que, si quelque chose devait surgir des profondeurs, ce serait eux qui mordraient les premiers. » - Archive maritime du Pays de l’Eau_
 
 Cette puissance leur permit de s’imposer parmi les grandes forces de l’archipel, aux côtés des Hozuki, des Karatachi et des Yuki. Chaque clan portait une vision différente de ce que devait devenir le Pays de l’Eau. Les Hozuki voulaient un pouvoir central capable de survivre aux guerres, les Karatachi croyaient à l’ordre par la peur, les Yuki défendaient une forme d’équilibre froid, distant et presque aristocratique, tandis que les Hoshigaki incarnaient la loi du plus fort, celle des prédateurs, des tempêtes et des mers où seuls les plus capables méritent de revenir vivants. Ils ne voyaient pas l’archipel comme un jardin à organiser, mais comme un territoire mouvant où l’autorité appartenait naturellement à ceux que l’océan ne parvenait pas à engloutir.
 
@@ -53,11 +50,11 @@ C’est dans cette époque que s’éleva **Gendagetsu Hozuki**. Il comprit qu�
 
 La mort de leur chef aurait pu déclencher une guerre totale, mais les Hoshigaki comprirent rapidement que l’ancien monde venait de recevoir une blessure dont il ne se relèverait pas. Gendagetsu n’avait pas négocié la paix, il l’avait imposée en arrachant la tête des trois plus grandes puissances rivales de l’archipel. Pour un clan attaché à la loi du plus fort, cet acte avait quelque chose d’inacceptable, mais aussi d’indéniable. Le Hozuki avait prouvé sa supériorité d’une manière que même les prédateurs du clan ne pouvaient totalement mépriser. Les Hoshigaki acceptèrent donc de participer à la naissance de **Kirigakure**, non par soumission docile, mais parce qu’ils reconnurent que l’archipel venait de changer de maître, et qu’une mer trop longtemps divisée finit toujours par avaler ses propres enfants.
 
-> *« Les Hoshigaki ne respectent pas celui qui réclame le pouvoir. Ils respectent celui qui survit après l’avoir pris. » - Proverbe du Pays de l’Eau*
+> _« Les Hoshigaki ne respectent pas celui qui réclame le pouvoir. Ils respectent celui qui survit après l’avoir pris. » - Proverbe du Pays de l’Eau_
 
 Ainsi se dessine l’histoire du clan Hoshigaki : celle de simples pêcheurs devenus chasseurs, de chasseurs devenus prédateurs, puis de prédateurs devenus clan. Leur origine n’a rien d’une bénédiction claire, ni d’un héritage noble transmis par les dieux ou les anciens sages. Elle ressemble davantage à une punition de l’océan, à une vengeance des profondeurs contre des hommes qui avaient trop pris sans jamais écouter. Mais les Hoshigaki ont fait de cette punition une force, de cette monstruosité une identité, et de cette faim une puissance capable de façonner le Pays de l’Eau.
 
-> *« L’océan les a dévorés pour les punir. Puis il les a recrachés pour que le monde apprenne à craindre ce qu’il avait créé. » - Archive Hoshigaki*
+> _« L’océan les a dévorés pour les punir. Puis il les a recrachés pour que le monde apprenne à craindre ce qu’il avait créé. » - Archive Hoshigaki_
 
 ***
 
@@ -67,7 +64,7 @@ Chez les **Hoshigaki**, seule la force fait loi, non comme une simple formule de
 
 Les enfants du clan sont élevés très tôt dans cette logique. On ne leur apprend pas d’abord à obéir, mais à endurer, à attaquer, à résister à la douleur, à sentir la peur chez l’autre et à ne jamais laisser la leur prendre le dessus. Les premiers jeux ressemblent déjà à des luttes, les premières leçons à des affrontements, et les premiers échecs laissent souvent des marques que le clan considère comme nécessaires. Un jeune Hoshigaki n’est pas encouragé à chercher la sécurité dans l’affection du groupe, mais à comprendre que chaque lien est fragile tant qu’il n’a pas été éprouvé par la chasse, par le combat ou par la survie. L’amitié, au sens doux où d’autres clans l’entendent, est presque étrangère à leur culture : un Hoshigaki reconnaît des rivaux, des partenaires de chasse, des supérieurs temporaires, des faibles à protéger si cela sert le banc, et des proies lorsqu’ils cessent d’avoir une utilité.
 
-> *« Un frère qui ne sait pas mordre devient une charge. Une charge, dans l’eau, finit toujours par couler. » - Enseignement Hoshigaki*
+> _« Un frère qui ne sait pas mordre devient une charge. Une charge, dans l’eau, finit toujours par couler. » - Enseignement Hoshigaki_
 
 Cette brutalité ne signifie pourtant pas que les Hoshigaki soient incapables de confiance. Ils la conçoivent simplement autrement. La confiance ne naît pas de la parole, des promesses ou de la proximité familiale, mais de l’utilité prouvée dans l’action. Certains individus, qu’ils soient membres du clan ou extérieurs à celui-ci, peuvent être acceptés autour d’un Hoshigaki s’ils démontrent qu’ils servent la chasse, protègent le banc ou renforcent la domination du prédateur. Ces êtres sont parfois surnommés les **Rémoras**, en référence aux poissons qui suivent les requins, se nourrissent de leurs restes et survivent à leur proximité sans être dévorés. Le terme n’est pas toujours insultant, car un rémora intelligent peut devenir précieux. Tant qu’il sert le requin, tant qu’il l’aide à trouver, à poursuivre ou à achever ses proies, le requin peut même lui permettre de se nourrir sur sa propre chasse.
 
@@ -77,7 +74,7 @@ L’organisation interne du clan repose sur des cycles de rivalité constants. L
 
 Les combats internes sont donc fréquents, mais ils ne sont pas toujours perçus comme des crises. Pour les Hoshigaki, ils servent autant de rites initiatiques que de mécanismes de sélection. Les duels, les confrontations sous-marines, les chasses imposées et les compétitions d’endurance permettent de distinguer les véritables prédateurs de ceux qui n’ont que l’apparence du requin. Certaines traditions exigent qu’un jeune membre du clan survive à une chasse dans des eaux dangereuses, affronte un adversaire plus expérimenté ou prouve sa capacité à garder son sang-froid lorsque la faim, la peur et la douleur se mêlent. Ces rites sont violents, parfois cruels, mais ils obéissent à une logique codifiée : le banc ne peut survivre que si les faibles apprennent vite, ou disparaissent avant de mettre les autres en danger.
 
-> *« La mer ne sélectionne pas les meilleurs par discours. Elle les garde en vie, et cela suffit à les désigner. » - Proverbe Hoshigaki*
+> _« La mer ne sélectionne pas les meilleurs par discours. Elle les garde en vie, et cela suffit à les désigner. » - Proverbe Hoshigaki_
 
 Leur rapport au corps est lui aussi central dans leur culture. Les Hoshigaki ne se considèrent pas comme de simples shinobis dotés d’une affinité aquatique, mais comme des êtres dont la chair porte encore la mémoire de la transformation originelle. Leur puissance se manifeste par une fusion presque totale entre le corps et l’élément marin. Branchies, crocs, peau durcie, muscles adaptés aux profondeurs, endurance hors norme et affinité naturelle avec le **Suiton** font d’eux des combattants dont la présence transforme l’eau en territoire de chasse. Lorsqu’ils combattent, ils ne cherchent pas la beauté du geste ni la finesse gratuite. Ils frappent comme des prédateurs marins : vite, fort, sans hésitation, en exploitant chaque ouverture comme si l’adversaire n’était déjà plus un ennemi, mais une carcasse en devenir.
 
@@ -89,7 +86,7 @@ Cette pédagogie a marqué Kiri en profondeur. En transformant les enfants en ar
 
 Sur le plan militaire, leur place est tout aussi évidente. Les Hoshigaki sont la pointe de lance des armées de Kiri, particulièrement dans les environnements maritimes, côtiers ou noyés par le Suiton. Sur terre, ils restent des combattants redoutables, mais dans l’eau, ils deviennent autre chose. Ils harcèlent, encerclent, isolent, plongent sous les lignes ennemies, frappent depuis les angles morts et transforment chaque étendue liquide en zone de terreur. Là où d’autres clans cherchent à contrôler le champ de bataille, les Hoshigaki cherchent à le faire basculer dans leur élément, car une fois l’adversaire privé d’appuis, de souffle ou de repères, la chasse commence véritablement.
 
-> *« Sur terre, un Hoshigaki est un monstre. Dans l’eau, il n’a plus besoin de le prouver. » - Rapport militaire de Kiri*
+> _« Sur terre, un Hoshigaki est un monstre. Dans l’eau, il n’a plus besoin de le prouver. » - Rapport militaire de Kiri_
 
 Le clan inspire ainsi autant la crainte que le respect au sein du village. Leur rôle dans l’Académie les rend incontournables, leur héritage guerrier pèse sur l’histoire de Kiri, et leur puissance martiale a sauvé autant de batailles qu’elle a nourri de cauchemars. On les traite souvent de monstres de chair et de sang, parfois avec mépris, parfois avec admiration, mais rarement avec indifférence. Les Hoshigaki sont l’une de ces forces que nul ne peut ignorer, parce qu’ils rappellent à Kiri ce qu’elle a longtemps choisi d’être : un village capable de survivre dans la violence, même au prix de devenir terrifiant aux yeux du monde.
 
@@ -97,7 +94,7 @@ Malgré leurs divisions internes, leurs rivalités et leurs luttes pour la domin
 
 Ainsi, la culture Hoshigaki repose sur une tension permanente entre l’homme et le requin, entre le clan et la meute, entre la rivalité et la nécessité de chasser ensemble. Ils ne cherchent pas à devenir doux, ni à faire oublier leur nature, car ils savent que renier le requin reviendrait à renier la punition qui les a transformés en puissance. Pourtant, ceux qui pensent qu’ils ne sont que des monstres se trompent peut-être autant que ceux qui voudraient les voir devenir pleinement humains. Les Hoshigaki sont une évolution inachevée, un peuple né d’une morsure ancienne, qui apprend encore, génération après génération, à faire de son instinct une force plutôt qu’une condamnation.
 
-> *« Le requin solitaire mord pour vivre. Le banc, lui, survit aux siècles. » - Archive Hoshigaki*
+> _« Le requin solitaire mord pour vivre. Le banc, lui, survit aux siècles. » - Archive Hoshigaki_
 
 ***
 
@@ -109,7 +106,7 @@ Mais cet instinct est autant leur plus grand allié que leur plus grand ennemi.
 
 Il leur donne une perception presque animale du danger, une capacité à sentir la peur, à identifier la faiblesse, à comprendre quand une proie est prête à céder ou quand un adversaire tente de masquer sa panique derrière une posture courageuse. Il les pousse à frapper vite, à ne pas reculer devant la douleur, à poursuivre une cible au-delà de ce qu’un shinobi ordinaire accepterait d’endurer. Dans l’eau, dans la brume ou dans le sang, l’instinct Hoshigaki devient une boussole d’une précision terrifiante, capable de mener son porteur vers la victoire là où la réflexion aurait ralenti le geste. Pourtant, ce même instinct peut aussi dévorer celui qui l’abrite, car il ne distingue pas toujours la chasse nécessaire du plaisir de dominer, ni la survie de la cruauté, ni la force de la bestialité.
 
-> *« Un Hoshigaki qui n’écoute jamais son instinct meurt vite. Un Hoshigaki qui n’écoute que lui cesse parfois d’être un homme avant de mourir. » - Enseignement du clan*
+> _« Un Hoshigaki qui n’écoute jamais son instinct meurt vite. Un Hoshigaki qui n’écoute que lui cesse parfois d’être un homme avant de mourir. » - Enseignement du clan_
 
 C’est cette tension qui définit toute leur existence. Certains Hoshigaki passent leur vie à lutter contre leur instinct, à l’enfermer, à le discipliner, à prouver qu’ils ne sont pas seulement les héritiers d’une gueule ancienne et d’un appétit sans fond. D’autres, au contraire, choisissent de le laisser s’exprimer pleinement, convaincus que le requin en eux est plus honnête, plus fort et plus vrai que toutes les constructions humaines. Entre ces deux extrêmes existe une infinité de chemins, car chaque Hoshigaki doit répondre à la même question : faut-il dominer le requin, marcher avec lui, ou accepter qu’il prenne les commandes lorsque vient l’odeur du sang ?
 
@@ -119,7 +116,7 @@ Les **requins bleus**, eux, incarnent une voie plus incertaine, peut-être plus 
 
 Les plus rares, et souvent les plus respectés, sont ceux que l’on nomme les **requins noirs**. Ce titre ne désigne pas simplement les plus forts, ni les plus violents, mais ceux qui sont parvenus à maîtriser parfaitement leur instinct sans l’étouffer. Un requin noir pense avant de mordre, mais il mord lorsque le moment l’exige. Il n’est ni une bête enchaînée, ni un homme prétendant ne plus être un prédateur. Il sait attendre, observer, contenir sa faim, retenir sa colère, choisir sa cible et frapper avec toute la brutalité nécessaire lorsque la décision est prise. Pour les Hoshigaki, cet équilibre représente l’une des formes les plus difficiles de maturité, car il ne s’agit pas de tuer le requin en soi, mais de lui apprendre à chasser au bon moment.
 
-> *« Le requin blanc mord parce qu’il en a besoin. Le requin bleu choisit s’il doit mordre. Le requin noir sait pourquoi il mord. » - Proverbe Hoshigaki*
+> _« Le requin blanc mord parce qu’il en a besoin. Le requin bleu choisit s’il doit mordre. Le requin noir sait pourquoi il mord. » - Proverbe Hoshigaki_
 
 Cet instinct prend racine très tôt. Dès l’enfance, les jeunes Hoshigaki apprennent que quelque chose en eux répond au sang, au danger, à la peur et à la domination. Certains enfants mordent avant de parler correctement, d’autres ressentent une excitation malsaine devant la faiblesse, d’autres encore éprouvent une terreur profonde à l’idée de devenir ce qu’ils sentent grandir dans leur propre corps. Le clan ne nie pas cette réalité, car prétendre que l’instinct n’existe pas serait condamner les jeunes à être dévorés par lui. À la place, on les confronte très tôt à ce qu’ils sont, parfois avec une brutalité qui choque les autres clans, mais qui, pour les Hoshigaki, constitue une nécessité. Un requin qui ignore sa faim finit toujours par attaquer n’importe quoi.
 
@@ -129,13 +126,13 @@ Cette dualité est souvent décrite comme une **malédiction et une bénédictio
 
 Les anciens rattachent cette condition à la faute originelle du Dock Sanglant. Les pêcheurs d’autrefois furent guidés par l’orgueil, par le plaisir de la chasse, par la certitude que tout ce qui vivait dans l’océan pouvait être poursuivi, harponné, découpé et vendu. Ils voulaient chasser plus loin, plus grand, plus fort que tous les autres, et les profondeurs leur répondirent d’une manière cruelle. Ils voulaient être les plus grands chasseurs de la mer, les voilà servis : leurs descendants portent encore la chasse dans le sang, mais ne peuvent plus prétendre qu’elle est seulement un métier, car elle est devenue une part d’eux-mêmes, une pulsion ancienne qui décide parfois avant la raison.
 
-> *« Ils ont voulu chasser jusqu’à ce que la mer n’ait plus rien à leur refuser. Alors la mer leur a donné une faim assez grande pour ne jamais être rassasiée. » - Archive du Dock Sanglant*
+> _« Ils ont voulu chasser jusqu’à ce que la mer n’ait plus rien à leur refuser. Alors la mer leur a donné une faim assez grande pour ne jamais être rassasiée. » - Archive du Dock Sanglant_
 
 Pourtant, les Hoshigaki ne considèrent pas cet instinct comme une fatalité devant laquelle il faudrait simplement s’effondrer. Un prédateur peut être confronté à une proie plus grande que lui, plus dangereuse, plus ancienne, et cela ne signifie pas qu’il doive abandonner. Il observe, tourne autour, attend l’erreur, encaisse les coups, perd du sang, revient, apprend, puis finit par trouver l’angle où la morsure devient possible. L’instinct fonctionne de la même manière. Il est plus fort qu’eux, plus ancien qu’eux, parfois au-dessus d’eux, mais cela ne veut pas dire qu’il est invincible. Les plus grands Hoshigaki sont précisément ceux qui ont compris que la chasse la plus difficile n’est pas toujours celle menée contre un ennemi extérieur, mais celle menée contre le monstre que les profondeurs ont laissé dans leur propre poitrine.
 
 Ainsi, l’instinct Hoshigaki définit toute leur culture, leur éducation, leur violence et leur grandeur. Il décide parfois s’ils seront des bêtes, des hommes, ou les deux à la fois. Il peut faire d’eux des monstres incontrôlables, des soldats impossibles à briser, des prédateurs solitaires ou des chefs capables de guider tout un banc à travers le sang et la brume. Il ne disparaît jamais, ne s’excuse jamais, ne se tait jamais entièrement. Il attend sous la peau, dans les dents, dans les muscles et dans le souffle, rappelant à chaque Hoshigaki que son héritage ne se trouve pas seulement dans son clan, mais dans cette question qui le suit jusqu’à la tombe : au moment de mordre, qui tient vraiment la mâchoire ?
 
-> *« Le requin en nous n’est ni un ennemi, ni un maître. Il est l’épreuve que la mer a laissée dans notre sang. » - Parole Hoshigaki*
+> _« Le requin en nous n’est ni un ennemi, ni un maître. Il est l’épreuve que la mer a laissée dans notre sang. » - Parole Hoshigaki_
 
 ***
 
@@ -151,7 +148,7 @@ Cette singularité se manifeste d’abord par une transformation physique progre
 
 Mais cette force ne vient pas sans prix car la **malédiction d’Isonade** ne dort jamais complètement. Elle pousse les Hoshigaki vers la faim, la violence, la domination, l’odeur du sang et la recherche instinctive de la faiblesse chez l’adversaire. Certains apprennent à la contrôler, d’autres la laissent parler à leur place, mais aucun Hoshigaki ne peut prétendre en être totalement séparé. Leur corps porte un souvenir plus ancien qu’eux, comme si la bête qui transforma leurs ancêtres avait laissé dans chaque cellule une instruction simple : survivre, mordre, dévorer, ne jamais redevenir proie.
 
-> *« Les Hoshigaki n’ont pas seulement hérité de la mer. Ils ont hérité de ce qui, dans la mer, attend que quelque chose saigne. » - Archive de Kiri*
+> _« Les Hoshigaki n’ont pas seulement hérité de la mer. Ils ont hérité de ce qui, dans la mer, attend que quelque chose saigne. » - Archive de Kiri_
 
 C’est cette inscription cellulaire qui rend l’héritage Hoshigaki si dangereux, car ce qui existe dans la chair peut être **volé**. Des fragments de peau, de sang, d’organes ou de tissus peuvent être prélevés, conservés, étudiés et réimplantés dans un autre corps par des méthodes scientifiques avancées. En théorie, un individu extérieur au clan peut donc recevoir des cellules Hoshigaki et devenir une forme artificielle de leur lignée. Il ne naît pas Hoshigaki, il le devient par greffe, par altération, par contamination contrôlée. Son corps n’hérite pas d’un nom, mais d’une malédiction.
 
@@ -165,21 +162,21 @@ Au sein du clan, ces cellules ne sont donc pas perçues comme un simple avantage
 
 Ainsi, les cellules Hoshigaki ne sont ni une bénédiction pure, ni un outil que la science peut manipuler sans conséquence. Elles sont la continuité d’Isonade dans la chair des hommes, une malédiction transmissible, volable, greffable, mais jamais véritablement docile. Celui qui les intègre peut gagner des crocs, des branchies, une puissance nouvelle et l’illusion d’être devenu Hoshigaki. Mais la vérité demeure plus sombre : il n’a pas seulement reçu les cellules d’un clan. Il a invité la mer profonde à ouvrir les yeux dans son propre sang.
 
-> *« Voler les cellules d’un Hoshigaki, c’est croire qu’on peut prendre les dents du requin sans hériter de sa faim. » - Proverbe de la Brume*
+> _« Voler les cellules d’un Hoshigaki, c’est croire qu’on peut prendre les dents du requin sans hériter de sa faim. » - Proverbe de la Brume_
 
 ***
 
-## **Pour en apprendre plus sur le Clan Hoshigaki :**&#x20;
+## **Pour en apprendre plus sur le Clan Hoshigaki :**
 
-* [**Samehada, Mère des Requins**](/naruto/monde/les-armes-uniques/les-armes-de-kiri/samehada-mere-des-requins.md)
+* [**Samehada, Mère des Requins**](../../../naruto/monde/les-armes-uniques/les-armes-de-kiri/samehada-mere-des-requins.md)
 * [**Mythe Fondateur "Isonade"**](https://docs.google.com/document/d/10DOyefpUrXQs9N1oRytc-j9WbrMmH7aTEYNN9T9y0sA/edit?usp=sharing) par Xiong
-* [**Senjutsu**](/naruto/monde/les-arts-ninja/senjutsu.md), Energie Naturelle
+* [**Senjutsu**](../../../naruto/monde/les-arts-ninja/senjutsu.md), Energie Naturelle
 
 #### Liste des Mizukages :
 
-* [**Kurai Hoshigaki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 2ème Mizukage
-* [**Asari Hoshigaki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 9ème Mizukage
-* [**Rukai Hoshigaki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 10ème Mizukage
-* [**Aogami Hoshigaki**](/naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 14ème Mizukage
+* [**Kurai Hoshigaki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 2ème Mizukage
+* [**Asari Hoshigaki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 9ème Mizukage
+* [**Rukai Hoshigaki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-1ere-generation), 10ème Mizukage
+* [**Aogami Hoshigaki**](../../../naruto/village/pays-de-leau-kiri/histoire/mizukage.md#id-2nd-generation), 14ème Mizukage
 
 ***

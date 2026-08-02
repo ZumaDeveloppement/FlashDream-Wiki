@@ -1,3 +1,6 @@
+---
+coverY: 0
+---
 
 # 💡・Guide : Candidature RP 🆕
 
@@ -48,7 +51,7 @@ Cette partie est la plus simple. Ne racontez pas toute la vie de votre personnag
 
 Par exemple : **Kenichi Suza Kaguya**
 
-* Kage Nukenin *(personnage d’animation)*
+* Kage Nukenin _(personnage d’animation)_
 * Commandant Jônin d’Oto
 * Bras droit du Tetsukage
 * Chef du clan
@@ -85,7 +88,7 @@ Dans la partie **« Apport au plateau »**, vous listez ce que vous avez fait. D
 
 Par exemple :
 
-> *J’estime que mon personnage a eu un impact à plusieurs niveaux. Au sein de son clan, il a apporté une nouvelle dynamique à certains rôles et rédigé des récits retraçant son lore, directement accessibles en RP. À l’échelle de la faction, il a instauré des rivalités et des alliances entre différents clans. Enfin, sur le plan interfaction, il a créé des jeux de pouvoir grâce à des vols et à des alliances avec des clans extérieurs.*
+> _J’estime que mon personnage a eu un impact à plusieurs niveaux. Au sein de son clan, il a apporté une nouvelle dynamique à certains rôles et rédigé des récits retraçant son lore, directement accessibles en RP. À l’échelle de la faction, il a instauré des rivalités et des alliances entre différents clans. Enfin, sur le plan interfaction, il a créé des jeux de pouvoir grâce à des vols et à des alliances avec des clans extérieurs._
 
 L’administration souhaite comprendre les conséquences de vos actions.
 
@@ -106,11 +109,11 @@ Quelques exemples :
 
 Par exemple :
 
-> *Mon personnage est devenu maître en genjutsu et a organisé de nombreux cours.*
+> _Mon personnage est devenu maître en genjutsu et a organisé de nombreux cours._
 
 Ou encore :
 
-> *Mon personnage a supervisé un projet Nukenin réunissant une quarantaine de joueurs et a organisé de nombreuses animations afin de leur proposer du jeu.*
+> _Mon personnage a supervisé un projet Nukenin réunissant une quarantaine de joueurs et a organisé de nombreuses animations afin de leur proposer du jeu._
 
 Un personnage de clan ne doit pas uniquement vivre son propre RP : il doit également en créer pour les autres.
 
@@ -133,7 +136,7 @@ Exemple :
 
 Puis vous pouvez terminer par une ligne directrice :
 
-> *Au fil du personnage, il apprendra progressivement à devenir un véritable ninja.*
+> _Au fil du personnage, il apprendra progressivement à devenir un véritable ninja._
 
 C'est largement suffisant, n'essayez pas d'écrire toute l'histoire de votre personnage… personne ne peut savoir à l'avance comment un personnage évoluera.
 

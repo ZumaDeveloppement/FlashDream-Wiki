@@ -1,5 +1,4 @@
-
-# 🍌・Bâton d'Enma, Le Roi Singe 🆕
+# ⚪・Les Armes du Monde
 
 Bien avant la fondation des villages cachés, à une époque où les créatures ayant maîtrisé le Senjutsu rivalisaient encore avec les plus grands monstres du monde, un autre nom dominait les montagnes, les jungles et les forêts anciennes : **Sarugami**, le Singe Divin.
 
@@ -63,12 +62,10 @@ Depuis lors, le bâton est devenu l'un des plus grands trésors du peuple singe.
 
 Quant à Oko, il continua de régner. Beaucoup avaient prédit sa mort, convaincus qu'un roi aussi faible ne survivrait pas une saison entouré des plus redoutables guerriers du monde singe. Pourtant, année après année, ce furent ses adversaires qui disparaissaient tandis que lui demeurait sur son trône. Aucun n'arriva à comprendre comment le renverser, car tous cherchaient une faiblesse là où se trouvait sa plus grande force. Oko n'était ni le plus fort ni le plus sage, il était simplement le plus malin, et les siècles ont depuis retenu cette leçon sous la forme d'un proverbe encore répété aujourd'hui :
 
-> *« Sarugami inspira le royaume par sa joie. Enma le conquit par sa puissance. Oko le conserva par sa ruse. »*
+> _« Sarugami inspira le royaume par sa joie. Enma le conquit par sa puissance. Oko le conserva par sa ruse. »_
 
 Son histoire demeure celle de trois souverains qui incarnèrent chacun une manière différente de gouverner. Le premier apprit aux singes que la joie pouvait unir un peuple, le second leur prouva que la puissance pouvait le protéger sans jamais égaler la grandeur spirituelle de son maître, et le troisième démontra qu'aucune force n'égale un esprit capable de faire rire son adversaire avant de le vaincre.
 
-> *« Tous voulaient être plus forts qu'Enma. Moi, j'ai simplement attendu qu'il oublie qu'il pouvait perdre. » -* Oko, Nouveau Roi Singe
-
-<figure><img src="/files/D38ZbklPJJ9vOfCTyL5C" alt=""><figcaption></figcaption></figure>
+> _« Tous voulaient être plus forts qu'Enma. Moi, j'ai simplement attendu qu'il oublie qu'il pouvait perdre. » -_ Oko, Nouveau Roi Singe
 
 ***

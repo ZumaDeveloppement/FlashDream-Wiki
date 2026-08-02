@@ -1,7 +1,4 @@
-
 # 🐦‍⬛・Clan Uchiha 🆕
-
-<figure><img src="/files/3WzO1JNijs0amrSXj9kx" alt="" width="250"><figcaption></figcaption></figure>
 
 ## **Histoire du Clan Uchiha - Les** Démons aux Yeux Rouges 🆕
 
@@ -9,13 +6,13 @@ Narrer l’histoire du **clan Uchiha**, c’est remonter à l’une des flammes 
 
 Avant même que le nom de **Madara Uchiha** ne devienne une cicatrice gravée dans l’Histoire, le clan Uchiha était déjà l’une des forces militaires les plus redoutées du continent. Dans un Pays du Feu encore divisé, où chaque vallée, chaque rivière, chaque forêt et chaque route commerciale pouvait devenir la cause d’une guerre, les Uchiha marchaient sous leurs armures marquées de l’éventail écarlate. Ils vendaient parfois leur puissance aux seigneurs féodaux, protégeant des terres, renversant des positions ennemies ou faisant basculer l’issue de conflits qui ne leur appartenaient pas toujours, mais réduire leur histoire à du mercenariat serait mal comprendre ce qu’ils étaient. Les Uchiha ne combattaient pas seulement pour l’or, les alliances ou les faveurs des puissants, ils combattaient aussi pour leurs propres terres, leurs propres morts, leurs propres routes, leurs propres enfants, et pour que leur clan ne soit jamais contraint de vivre sous l’autorité d’un autre.
 
-> *« Là où les Uchiha marchaient, les seigneurs ne demandaient pas seulement combien d’hommes ils apportaient, mais combien de terres il resterait à ceux qui avaient provoqué leur venue. » - Chronique militaire du Pays du Feu*
+> _« Là où les Uchiha marchaient, les seigneurs ne demandaient pas seulement combien d’hommes ils apportaient, mais combien de terres il resterait à ceux qui avaient provoqué leur venue. » - Chronique militaire du Pays du Feu_
 
 Leur puissance reposait d’abord sur une cohésion clanique d’une intensité rare. Chez les Uchiha, **le clan était tout** : le sang, le nom, l’honneur, la fidélité et l’héritage primaient sur presque toute autre considération. Cette solidarité les rendait difficiles à briser, car un Uchiha isolé ne représentait jamais seulement un individu, mais la continuité d’une famille entière prête à répondre à l’offense. Ils grandissaient avec la certitude d’appartenir à quelque chose de plus vaste qu’eux-mêmes, et cette certitude forgeait des combattants d’une loyauté presque absolue envers les leurs. Pourtant, cette force portait en elle son propre danger, car l’amour d’un Uchiha n’était jamais tiède, jamais mesuré, jamais facile à éteindre, il brûlait avec la même intensité que leur Katon, et lorsqu’il était brisé, trahi ou arraché, il pouvait se transformer en une haine capable de consumer tout ce qu’il avait autrefois voulu protéger.
 
 Bien avant que les villages cachés n’existent, cette passion fit des Uchiha un clan aussi admiré que craint. Leurs yeux alimentaient déjà d’innombrables récits, car certains membres éveillaient le **Sharingan**, l’un des grands dōjutsu, dont les capacités semblaient repousser les limites ordinaires de la perception humaine. Ces pupilles permettaient de lire les mouvements avant qu’ils ne soient achevés, de copier des techniques, d’anticiper les attaques et de plonger l’ennemi dans des illusions d’une précision implacable. Pourtant, ce don n’apparaissait pas comme une simple bénédiction, il s’éveillait souvent dans la douleur, dans le choc, dans la perte ou dans une émotion si violente qu’elle fissurait l’âme pour ouvrir l’œil. Chez les Uchiha, la puissance ne venait donc jamais sans mémoire, et chaque regard rouge portait en lui la trace d’un instant que son porteur n’oublierait jamais.
 
-> *« Les yeux des Uchiha ne s’ouvrent pas seulement sur le monde, ils s’ouvrent sur ce que le cœur n’a pas réussi à supporter. » - Archive Uchiha*
+> _« Les yeux des Uchiha ne s’ouvrent pas seulement sur le monde, ils s’ouvrent sur ce que le cœur n’a pas réussi à supporter. » - Archive Uchiha_
 
 À côté du Sharingan, le **Katon** devint l’autre grande signature du clan. Pour les Uchiha, le feu ne fut jamais seulement une affinité élémentaire ou une arme de guerre, mais une expression de leur fierté, une langue transmise de génération en génération, un rite autant qu’une technique. Souffler la flamme, la tenir, la modeler, l’élargir jusqu’à ce qu’elle devienne mur, souffle, tempête ou jugement, relevait presque d’une éducation spirituelle. Un jeune Uchiha n’apprenait pas le Katon pour impressionner les autres clans, mais pour prouver qu’il était capable de porter la chaleur de son nom sans s’y brûler lui-même. Cette maîtrise du feu, combinée à la précision du Sharingan, fit d’eux des adversaires d’une redoutable efficacité, capables de transformer le champ de bataille en piège, en fournaise ou en théâtre d’illusions.
 
@@ -25,7 +22,7 @@ La rivalité entre les deux clans naquit donc autant des champs de bataille que 
 
 À force de se croiser dans la boue, les flammes, les rivières et les cimetières improvisés, les Uchiha et les Senju cessèrent d’être de simples adversaires pour devenir les deux pôles d’une rivalité héréditaire. Les enfants naissaient dans un monde où le nom de l’autre clan était déjà une menace, une douleur ou une promesse de vengeance, les morts s’accumulaient, les batailles se répondaient, et chaque génération héritait d’une haine qu’elle n’avait pas entièrement choisie, mais qu’elle portait comme si elle était devenue une part naturelle du sang. Cette guerre dépassa rapidement les raisons qui l’avaient vue naître, car lorsque deux clans apprennent à enterrer leurs enfants en accusant toujours les mêmes ennemis, la paix cesse d’être une évidence pour devenir presque une trahison envers les disparus.
 
-> *« Les Senju se souvenaient comme les racines gardent les cendres. Les Uchiha se souvenaient comme le feu garde la forme de ce qu’il a brûlé. » - Chronique du Pays du Feu*
+> _« Les Senju se souvenaient comme les racines gardent les cendres. Les Uchiha se souvenaient comme le feu garde la forme de ce qu’il a brûlé. » - Chronique du Pays du Feu_
 
 Cette rivalité trouva son apogée avec l’ascension de **Madara Uchiha**. Héritier d’une génération née dans la guerre, Madara porta à son sommet tout ce que le clan représentait de plus redoutable : la fierté, la puissance, l’amour des siens, la rancune des morts et la volonté de ne jamais plier. Maître absolu du Katon, porteur d’un regard que beaucoup considéraient comme l’expression la plus pure et la plus terrible du Sharingan, il devint non seulement le chef des Uchiha, mais le symbole vivant de leur refus d’être dominés par quiconque. Dans ses mains, les armes du clan, les flammes et les illusions semblaient appartenir à une même logique, celle d’un homme qui ne combattait pas seulement pour vaincre, mais pour imposer au monde la certitude que les Uchiha ne seraient jamais réduits au silence.
 
@@ -33,7 +30,7 @@ Face à lui se dressait **Hashirama Senju**, son égal, son rival et son frère 
 
 De cette compréhension naquit l’impossible : une alliance entre les Uchiha et les Senju. Avec Hashirama, Madara participa à la fondation de **Konohagakure**, le Village Caché de la Feuille, dans l’espoir de briser enfin le cycle des guerres de clans. Pour la première fois, ceux qui s’étaient transmis la haine comme un héritage acceptèrent de poser leurs armes sous une même bannière. Ce geste ne fut pas seulement politique, il fut presque contre-nature pour beaucoup d’Uchiha, car rejoindre Konoha signifiait accepter que les morts n’obtiendraient pas tous vengeance, que les ennemis d’hier pourraient devenir les voisins de demain, et que le clan devrait désormais exister dans une structure plus vaste que lui-même.
 
-> *« Il est plus facile pour un Uchiha de brûler un ennemi que de vivre à côté de lui. C’est pour cela que Konoha fut notre plus grande victoire, et peut-être notre plus grande blessure. » - Archive Uchiha*
+> _« Il est plus facile pour un Uchiha de brûler un ennemi que de vivre à côté de lui. C’est pour cela que Konoha fut notre plus grande victoire, et peut-être notre plus grande blessure. » - Archive Uchiha_
 
 Les premières années du village furent donc marquées par cette tension profonde. Les Uchiha avaient contribué à fonder Konoha, mais Konoha exigeait d’eux une transformation difficile. Eux qui avaient toujours placé le clan au-dessus de tout devaient désormais accepter l’idée d’un bien commun où leur nom n’était plus l’unique centre de loyauté. Certains y virent une promesse, la possibilité d’offrir aux enfants Uchiha une vie qui ne serait pas entièrement définie par le champ de bataille, d’autres y virent une dilution, un danger, une forme d’oubli imposé au nom d’une paix encore fragile. Madara lui-même sentit grandir cette fracture, convaincu que les siens risquaient de perdre dans la paix ce qu’ils avaient préservé dans la guerre.
 
@@ -45,7 +42,7 @@ Après Madara, le clan Uchiha demeura l’un des piliers majeurs de Konoha, mais
 
 Ainsi se dessine l’histoire du clan Uchiha : celle d’une lignée née dans les mythes du feu et du regard, façonnée par les guerres du Pays du Feu, élevée par une fidélité absolue au sang, puis conduite par Madara jusqu’à la fondation de Konoha et à la blessure éternelle de la Vallée de la Fin. Les Uchiha ne furent jamais seulement des guerriers, ni seulement des porteurs du Sharingan, ni seulement les rivaux des Senju. Ils furent une **flamme ancienne**, capable d’éclairer un village ou d’en menacer les fondations, une famille dont l’amour pouvait donner naissance aux plus grands sacrifices comme aux plus terribles colères.
 
-> *« Le feu des Uchiha ne disparaît jamais vraiment. Parfois, il réchauffe les murs du village. Parfois, il brûle sous ses cendres en attendant que quelqu’un se souvienne de sa chaleur. » - Archives de Konoha*
+> _« Le feu des Uchiha ne disparaît jamais vraiment. Parfois, il réchauffe les murs du village. Parfois, il brûle sous ses cendres en attendant que quelqu’un se souvienne de sa chaleur. » - Archives de Konoha_
 
 ***
 
@@ -59,13 +56,13 @@ Le Sharingan est sans doute l’un des plus grands mystères du monde shinobi, a
 
 Dans sa forme la plus connue, le Sharingan permet déjà des prodiges que peu de clans peuvent espérer égaler. Il offre à son porteur une perception accrue des mouvements, une capacité à anticiper les gestes adverses avant même qu’ils ne soient totalement exécutés, ainsi qu’une lecture fine du chakra et des intentions corporelles. Un Uchiha éveillé peut copier des techniques, décoder des habitudes de combat, transformer l’erreur d’un adversaire en condamnation immédiate et plonger son ennemi dans des illusions d’une précision terrifiante. Le Sharingan ne donne pas seulement l’avantage de voir mieux : il donne l’impression que le monde ralentit, que chaque mouvement devient lisible, que chaque hésitation devient exploitable.
 
-> *« Affronter un Uchiha, ce n’est pas seulement être observé. C’est découvrir que son propre corps a trahi ses intentions avant même que l’esprit ne les formule. » - Rapport tactique de Konoha*
+> _« Affronter un Uchiha, ce n’est pas seulement être observé. C’est découvrir que son propre corps a trahi ses intentions avant même que l’esprit ne les formule. » - Rapport tactique de Konoha_
 
 Pourtant, limiter le Sharingan à ses capacités connues serait une erreur grossière. Depuis les premiers récits du clan, ses évolutions sont entourées de mysticisme, de peur et de légendes contradictoires. Les Uchiha eux-mêmes ne parlent qu’avec prudence des formes supérieures de leur pupille, comme si chaque degré franchi rapprochait autant du miracle que de l’abîme. On raconte qu’au fil de l’histoire, certains porteurs auraient développé des capacités défiant toute logique ordinaire : manipuler la perception du temps, altérer momentanément la réalité, invoquer des flammes noires plus chaudes que les brasiers les plus anciens, se disperser en corbeaux, enfermer un esprit dans une illusion impossible à fuir, ou encore manifester d’immenses guerriers de chakra capables de tenir tête à des armées entières. Les récits varient selon les époques, les témoins et les survivants, mais tous s’accordent sur un point : lorsque le Sharingan atteint certaines profondeurs, il cesse d’être un simple dojutsu pour devenir une loi personnelle imposée au monde.
 
 Cette imprévisibilité fait toute la singularité du regard Uchiha. Contrairement à d’autres pupilles dont les usages sont mieux compris, mieux transmis ou mieux encadrés, le Sharingan semble parfois orchestrer des pouvoirs que personne n’aurait pu anticiper, comme si chaque évolution répondait à une faille intime propre à son porteur. Deux Uchiha peuvent partager le même sang, le même nom et le même héritage, sans jamais éveiller exactement les mêmes vérités dans leurs yeux. Le clan conserve jalousement les rares connaissances liées à ce développement, et l’on dit que seuls le chef des Uchiha et certains anciens connaissent les conditions réelles permettant à ces pupilles d’atteindre leurs formes les plus redoutables. Même au sein du clan, beaucoup ignorent ce qui relève du rituel, du sacrifice, du traumatisme ou de la légende volontairement entretenue.
 
-> *« Les Hyuga transmettent un regard. Les Uchiha héritent d’une porte, mais nul ne sait jamais vraiment ce qu’il devra perdre pour l’ouvrir. » - Archive anonyme du Pays du Feu*
+> _« Les Hyuga transmettent un regard. Les Uchiha héritent d’une porte, mais nul ne sait jamais vraiment ce qu’il devra perdre pour l’ouvrir. » - Archive anonyme du Pays du Feu_
 
 C’est là que réside la malédiction du Sharingan. Il est l’une des plus grandes bénédictions du monde shinobi, car il offre à ceux qui le portent une puissance capable de faire basculer l’histoire, mais il est aussi l’un des fardeaux les plus dangereux jamais transmis par un clan. Son éveil naît rarement dans la paix. Il répond à la douleur, à la perte, à l’amour brisé, à la colère, à l’impuissance ou au désespoir. Là où d’autres pouvoirs grandissent avec l’entraînement et l’étude, le Sharingan semble parfois exiger que son porteur traverse quelque chose d’irréversible. Cette proximité entre puissance et souffrance explique pourquoi les Uchiha furent si souvent décrits comme instables, passionnés, imprévisibles, voire démoniaques par ceux qui ne comprenaient pas la nature de leurs yeux.
 
@@ -73,7 +70,7 @@ Les émotions des Uchiha ont toujours été comparées aux flammes qu’ils maî
 
 C’est pour cette raison que les récits anciens hésitent toujours entre admiration et terreur lorsqu’ils évoquent les Uchiha. Certains les nomment les héritiers de la flamme, d’autres les démons aux yeux rouges, mais ces deux images racontent finalement la même vérité : le Sharingan éclaire autant qu’il consume. Il guide son porteur vers des sommets que nul autre ne peut atteindre, tout en l’exposant à des gouffres que personne ne peut entièrement comprendre. Il incarne parfaitement l’essence du clan Uchiha : une lignée capable des plus grands sacrifices comme des plus terribles colères, des plus beaux miracles comme des pires tragédies, brûlant dans l’histoire du monde shinobi comme une flamme qui refuse de s’éteindre.
 
-> *« Les yeux rouges des Uchiha ne sont pas maudits parce qu’ils voient trop loin. Ils le sont parce qu’ils n’oublient jamais ce qu’ils ont vu. » - Archives du clan Uchiha*
+> _« Les yeux rouges des Uchiha ne sont pas maudits parce qu’ils voient trop loin. Ils le sont parce qu’ils n’oublient jamais ce qu’ils ont vu. » - Archives du clan Uchiha_
 
 ***
 
@@ -83,7 +80,7 @@ La culture du **clan Uchiha** ne repose pas sur des lignées séparées ou des b
 
 Le chef du clan porte sur ses épaules cette mémoire entière. Il n’est pas seulement un dirigeant familial, mais le gardien d’un héritage qui remonte aux guerres les plus anciennes du Pays du Feu, aux affrontements contre les Senju, à la fondation de Konoha et à la figure immense de **Madara Uchiha**. Il doit représenter la fierté du clan, protéger ses secrets, préserver son unité et maintenir sa place au sein du village, alors même que les Uchiha ont toujours été regardés avec une admiration inquiète. Plus encore, le chef porte aussi un secret plus sombre, lié à l’évolution de leurs yeux : pour atteindre les formes les plus élevées du Sharingan, certains Uchiha doivent parfois traverser des épreuves terribles, accomplir des actes impardonnables, se briser eux-mêmes ou briser ceux qu’ils aiment. Le pouvoir des Uchiha n’a jamais été un simple don. Il a toujours demandé un prix.
 
-> *« Les yeux des Uchiha ne s’ouvrent jamais gratuitement. Chaque lumière écarlate cache une brûlure que personne ne voit. » - Archive de Konoha*
+> _« Les yeux des Uchiha ne s’ouvrent jamais gratuitement. Chaque lumière écarlate cache une brûlure que personne ne voit. » - Archive de Konoha_
 
 Les Uchiha sont un clan difficile à comprendre et plus encore à gouverner, car leur héritage ne se limite pas à leurs pupilles. Ils portent aussi une intensité émotionnelle rare, comme si leur sang transformait chaque sentiment en brasier. Ils aiment plus fort, haïssent plus fort, souffrent plus fort, espèrent plus fort. Là où d’autres clans apprennent à étouffer leurs émotions pour devenir des armes, les Uchiha vivent avec elles comme avec une flamme intérieure impossible à éteindre. Leur force vient souvent de cette intensité, mais leurs chutes aussi. Un Uchiha n’est jamais froid par nature ; même lorsqu’il paraît calme, quelque chose brûle encore sous la cendre.
 
@@ -101,26 +98,26 @@ Pourtant, malgré les crises, malgré les soupçons, malgré les départs et les
 
 Ainsi, la culture Uchiha repose sur une contradiction permanente. Ils sont à la fois aimés et craints, nécessaires et surveillés, fondateurs et éternels suspects, protecteurs du village et porteurs d’un pouvoir capable de les isoler du reste du monde. Ils vivent plus intensément que les autres, souffrent plus profondément, transmettent leur fierté comme une armure et leurs blessures comme un héritage. Leur grandeur vient de cette flamme intérieure, mais leur tragédie aussi. Car être Uchiha, ce n’est pas seulement voir le monde avec des yeux rouges. C’est porter dans son regard tout ce que le feu peut offrir aux hommes : la chaleur, la lumière, la passion, mais aussi les cendres.
 
-> *« Les Senju ont donné au village ses racines. Les Uchiha lui ont donné son feu. Et même lorsque ce feu fait peur, Konoha sait qu’il mourrait de froid sans lui. » - Parole ancienne du Pays du Feu*
+> _« Les Senju ont donné au village ses racines. Les Uchiha lui ont donné son feu. Et même lorsque ce feu fait peur, Konoha sait qu’il mourrait de froid sans lui. » - Parole ancienne du Pays du Feu_
 
 ***
 
-## **Pour en apprendre plus sur le Clan Uchiha :**&#x20;
+## **Pour en apprendre plus sur le Clan Uchiha :**
 
-* [**Gunbai, Tengu No Uchiha**](/naruto/monde/les-armes-uniques/les-armes-de-konoha/gunbai-tengu-no-uchiha.md)
-* [**Faux de Madara**](/naruto/monde/les-armes-uniques/les-armes-de-konoha/faux-de-madara.md)
-* [**Dōjutsu**](/naruto/monde/les-arts-ninja/dojutsu.md)
-* [**Genjutsu**](/naruto/monde/les-arts-ninja/genjutsu.md)
+* [**Gunbai, Tengu No Uchiha**](../../../naruto/monde/les-armes-uniques/les-armes-de-konoha/gunbai-tengu-no-uchiha.md)
+* [**Faux de Madara**](../../../naruto/monde/les-armes-uniques/les-armes-de-konoha/faux-de-madara.md)
+* [**Dōjutsu**](../../../naruto/monde/les-arts-ninja/dojutsu.md)
+* [**Genjutsu**](../../../naruto/monde/les-arts-ninja/genjutsu.md)
 
 #### Liste des Hokages :
 
-* [**Madara Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/origines-de-konoha.md), Co-Fondateur
-* [**Harumi Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-1ere-generation), 4ème Hokage
-* [**Kazuma Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-1ere-generation), 7ème Hokage
-* [**Ryômen Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 11ème Hokage
-* [**Kuruma Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 12ème Hokage
-* [**Natsuma Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 18ème Hokage
-* [**Setsuna Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 20ème Hokage
-* [**Yugi Uchiha**](/naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-3eme-generation), 21ème Hokage
+* [**Madara Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/origines-de-konoha.md), Co-Fondateur
+* [**Harumi Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-1ere-generation), 4ème Hokage
+* [**Kazuma Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-1ere-generation), 7ème Hokage
+* [**Ryômen Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 11ème Hokage
+* [**Kuruma Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 12ème Hokage
+* [**Natsuma Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 18ème Hokage
+* [**Setsuna Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 20ème Hokage
+* [**Yugi Uchiha**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-3eme-generation), 21ème Hokage
 
 ***
