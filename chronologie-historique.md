@@ -11,7 +11,7 @@ coverHeight: 239
 
 * **HRP :** Semaine du 13/07/2026
 
-<mark style="color:$info;">À savoir que le serveur</mark> <mark style="color:$info;">**FlashDream**</mark> <mark style="color:$info;">a ouvert ses portes le</mark> <mark style="color:$info;">**mercredi 30 octobre 2024**</mark><mark style="color:$info;">, soit il y a</mark> <mark style="color:$info;">**90 semaines HRP**</mark><mark style="color:$info;">, correspondant à</mark> <mark style="color:$info;">**90 années IRP**</mark><mark style="color:$info;">. Parmi elles,</mark> <mark style="color:$info;">**30 années se sont écoulées passivement**</mark> <mark style="color:$info;">sous les mandats successifs d’</mark><mark style="color:$info;">**Hashirama Senju**</mark> <mark style="color:$info;">et de</mark> <mark style="color:$info;">**Tobirama Senju**</mark><mark style="color:$info;">.</mark>
+<mark style="color:$info;">À savoir que le serveur</mark> <mark style="color:$info;">**FlashDream**</mark> <mark style="color:$info;">a ouvert ses portes le</mark> <mark style="color:$info;">**jeudi 2 avril 2026**</mark><mark style="color:$info;">, soit il y a</mark> <mark style="color:$info;">**17 semaines HRP**</mark><mark style="color:$info;">, correspondant à</mark> <mark style="color:$info;">**17 années IRP**</mark><mark style="color:$info;">.</mark>
 
 ***
 
@@ -69,7 +69,7 @@ Le premier à accomplir cette transformation fut le **Pays du Feu**, avec la nai
 
 La création des pays ne mit pas fin à la guerre. Elle changea simplement son échelle. Les clans ne combattaient plus seulement pour eux-mêmes, mais pour des villages, des Damyō, des frontières, des alliances et des intérêts nationaux. Les anciens conflits de familles devinrent des conflits entre États. Les rivalités locales devinrent des tensions internationales. Mais cette période apporta aussi une stabilité nouvelle : les peuples purent mieux identifier leurs frontières, les villages ninjas purent organiser la défense des civils, et les clans durent apprendre à coexister avec d’autres héritages que le leur.
 
-C’est à partir de cette période que le calendrier moderne fut établi. L’**An 0** correspond à la création des Pays et des Villages Ninjas, moment où le monde entra dans l’ordre politique actuel. Aujourd’hui, **129 ans** se sont écoulés depuis cette fondation. Le monde se trouve donc en **l’An 129**, toujours dans cette même période historique, un âge né d’un espoir de stabilité mais traversé par les guerres, les ambitions, les trahisons et les héritages sanglants des périodes précédentes.
+C’est à partir de cette période que le calendrier moderne fut établi. L’**An 0** correspond à la création des Pays et des Villages Ninjas, moment où le monde entra dans l’ordre politique actuel. Aujourd’hui, **120 ans** se sont écoulés depuis cette fondation. Le monde se trouve donc en **l’An 120**, toujours dans cette même période historique, un âge né d’un espoir de stabilité mais traversé par les guerres, les ambitions, les trahisons et les héritages sanglants des périodes précédentes.
 
 Ainsi, les grandes périodes du monde racontent moins une marche parfaite vers la paix qu’un cycle de transformation. Le **Chaos Originel** fut l’âge de la survie. Le **Ninshû** fut l’âge de l’harmonie et du chakra partagé. La **Période des Clans** fut l’âge des frontières, des héritages et du Ninjutsu guerrier. La **Période des Pays et des Villages Ninjas** est celle de l’ordre actuel, où les hommes ont appris à unir leurs forces sous des bannières plus grandes, sans jamais totalement éteindre les flammes anciennes de la guerre.
 
