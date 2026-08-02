@@ -57,6 +57,6 @@ Pour bien commencer, nous vous recommandons vivement de rejoindre en priorité l
 
 **Vous avez repéré une erreur, un oubli, une imprécision ou une information à mettre à jour ?**\
 \
-N'hésitez pas à nous le signaler en MP à <mark style="color:$warning;">**Xiong / flixeur**</mark> ou en ouvrant un ticket lore sur le [discord](https://discord.gg/Uzw4ZJFqB2) FlashDream. Notre équipe de loristes se fera un plaisir de regarder ça et vous de aiguiller !
+N'hésitez pas à nous le signaler en ouvrant un ticket  sur le [discord](https://discord.gg/Uzw4ZJFqB2) FlashDream. Notre équipe de loristes se fera un plaisir de regarder ça et vous de aiguiller !
 
 ***
