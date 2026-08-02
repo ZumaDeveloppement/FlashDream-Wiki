@@ -13,5 +13,6 @@ Depuis, ses clans sont devenus les fondations d’un village placé au cœur du 
 * [**Clan Uchiha** - Les Démons aux Yeux Rouges](/naruto/village/pays-du-feu-konoha/les-clans/clan-uchiha.md)
 * [**Clan Hyûga** - Les Yeux Célestes](/naruto/village/pays-du-feu-konoha/les-clans/clan-hyuga.md)
 * [**Clan Aburame** - Les Maîtres des Essaims](/naruto/village/pays-du-feu-konoha/les-clans/clan-aburame.md)
+* [**Clan Ayakaze** - Les Enfants du Vent](/naruto/village/pays-du-feu-konoha/les-clans/clan-ayakaze.md)
 
 ***

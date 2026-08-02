@@ -127,11 +127,4 @@ Ainsi, le Jardin demeure l’un des lieux les plus importants du clan Aburame. I
 > _« Les Kamizuru ont voulu nos secrets. D’autres voudront nos ressources. Mais le Jardin n’appartient pas à ceux qui le désirent. Il appartient à ceux que les Kikaichu acceptent de reconnaître. » - Parole d’un ancien Aburame_
 
 ***
-
-## **Pour en apprendre plus sur le Clan Aburame :**
-
-#### Liste des Hokages :
-
-* [**Reizin Aburame**](../../../naruto/village/pays-du-feu-konoha/histoire/hokage.md#id-2nd-generation), 15ème Hokage
-
 ***

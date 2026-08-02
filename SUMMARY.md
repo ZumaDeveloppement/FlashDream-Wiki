@@ -16,6 +16,7 @@
     * [🐦‍⬛・Clan Uchiha 🆕](village/pays-du-feu-konoha/les-clans/clan-uchiha.md)
     * [⚪・Clan Hyûga 🆕](village/pays-du-feu-konoha/les-clans/clan-hyuga.md)
     * [🪲・Clan Aburame 🆕](village/pays-du-feu-konoha/les-clans/clan-aburame.md)
+    * [🌪️・Clan Ayakaze 🆕](village/pays-du-feu-konoha/les-clans/clan-ayakaze.md)
 * [💧・Pays de l'Eau / Kiri  🆕](village/pays-de-leau-kiri.md)
   * [📜・Histoire 🆕](village/pays-de-leau-kiri/histoire.md)
     * [🌫️・Origines de Kiri 🆕](village/pays-de-leau-kiri/histoire/origines-de-kiri.md)
@@ -25,6 +26,7 @@
     * [🌫️・Clan Karatachi 🆕](village/pays-de-leau-kiri/les-clans/clan-karatachi.md)
     * [🦈・Clan Hoshigaki  🆕](village/pays-de-leau-kiri/les-clans/clan-hoshigaki.md)
     * [🦑・Clan Yokushin 🆕️](village/pays-de-leau-kiri/les-clans/clan-yokushin.md)
+    * [🌀・Clan Fūma 🆕](village/pays-de-leau-kiri/les-clans/clan-fuma.md)
 
 ## Monde
 

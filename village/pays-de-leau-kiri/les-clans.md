@@ -13,5 +13,6 @@ Chaque clan possède sa propre conception de la puissance, de l’honneur et de 
 * [**Clan Karatachi** - Les Assassins de la Brume](/naruto/village/pays-de-leau-kiri/les-clans/clan-karatachi.md)
 * [**Clan Hoshigaki** - Les Instincts Prédateurs](/naruto/village/pays-de-leau-kiri/les-clans/clan-hoshigaki.md)
 * [**Clan Yokushin** - Les Sombres Esclaves](/naruto/village/pays-de-leau-kiri/les-clans/clan-yokushin.md)
+* [**Clan Fūma** - Les Lames de l'Archipel](/naruto/village/pays-de-leau-kiri/les-clans/clan-fuma.md)
 
 ***
