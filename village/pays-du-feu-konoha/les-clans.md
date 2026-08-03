@@ -3,9 +3,9 @@
 
 ## Bienvenue dans la Section des Clans de Konoha
 
-Vous découvrirez ici les grandes lignées qui ont participé à la naissance et au développement du Village Caché de la Feuille. Konoha est né d’une trêve que beaucoup pensaient impossible, lorsque des familles autrefois ennemies choisirent de déposer les armes pour bâtir ensemble un avenir différent.
+Découvrez ici les grandes lignées qui ont porté la naissance et l'essor du Village Caché de la Feuille. Konoha est né d'une trêve que beaucoup jugeaient impossible, le jour où des familles autrefois ennemies choisirent de déposer les armes pour bâtir ensemble un avenir différent.
 
-Depuis, ses clans sont devenus les fondations d’un village placé au cœur du monde shinobi. Leurs traditions, leurs rivalités et leurs héritages façonnent encore Konoha, mais tous partagent la responsabilité de préserver cette unité fragile et de transmettre la Volonté du Feu aux générations futures.
+Depuis, ses clans forment les fondations d'un village placé au cœur du monde shinobi. Traditions, rivalités et héritages continuent de façonner Konoha, mais tous partagent la même responsabilité : préserver cette unité fragile et transmettre la Volonté du Feu aux générations futures.
 
 ### Liste des Clans de Konoha
 
