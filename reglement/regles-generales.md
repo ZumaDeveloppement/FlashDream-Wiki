@@ -3,42 +3,42 @@
 
 ### 1.1. Respect avant tout
 
-Aucun propos raciste, sexiste, homophobe ou haineux ne sera toléré, même sous forme de « blague ».
+Propos racistes, sexistes, homophobes ou haineux : tolérance zéro, même déguisés en « blague ».
 
 > Exemple interdit : *« C'est juste une blague, retourne dans ta cuisine »*
 
-Sanction possible : avertissement immédiat, voire ban selon la gravité.
+Sanction encourue : avertissement immédiat, voire ban selon la gravité.
 
 ### 1.2. Pas de harcèlement
 
-Tout comportement abusif, répétitif ou oppressant envers un autre joueur (même hors RP) est strictement interdit.
+Tout comportement abusif, répétitif ou oppressant envers un autre joueur, même hors RP, est strictement proscrit.
 
 > Exemple : insister via messages privés pour des interactions RP non souhaitées.
 
 ### 1.3. Langage approprié
 
-Utilisez un langage respectueux et évitez les insultes, surtout en dehors des scènes RP.
+Adoptez un langage respectueux et évitez les insultes, surtout en dehors des scènes RP.
 
-Dans les discussions OOC (#général, etc.), restez polis et bienveillants.
+Dans les discussions OOC (#général, etc.), politesse et bienveillance restent de rigueur.
 
 ### 1.4. Âge minimum recommandé : 15 ans
 
-Pour des raisons de maturité et de contenu RP, les joueurs de moins de 15 ans doivent demander une autorisation spéciale auprès du staff.
+Pour des raisons de maturité et de contenu RP, tout joueur de moins de 15 ans doit obtenir une autorisation spéciale du staff.
 
 ### 1.5. Modération
 
-Les décisions du staff sont à respecter. En cas de désaccord, ouvrez un ticket dans le calme.
+Les décisions du staff se respectent. En cas de désaccord, ouvrez un ticket, calmement.
 
-Les provocations ou attaques envers un membre du staff entraîneront des sanctions.
+Provoquer ou attaquer un membre du staff entraînera des sanctions.
 
 ### 1.6. Relations avec le Staff
 
 📜 **Règle Officielle**
 
-➡️ Il est strictement interdit de soudoyer un membre du staff, que ce soit par des avantages, promesses ou toute autre tentative d'influence.
-➡️ Il est également interdit de contacter directement un membre du staff en DM pour demander des faveurs, contourner les règles ou obtenir un traitement particulier.
+➡️ Soudoyer un membre du staff est strictement interdit, que ce soit par avantages, promesses ou toute autre tentative d'influence.
+➡️ Le contacter directement en DM pour demander des faveurs, contourner les règles ou obtenir un traitement particulier est tout aussi interdit.
 
-🔹 Tout échange avec le staff doit se faire dans les canaux prévus à cet effet et de manière transparente.
+🔹 Tout échange avec le staff passe par les canaux prévus à cet effet, en toute transparence.
 🔹 Toute tentative de corruption, pression ou demande hors cadre entraînera des sanctions immédiates et sévères.
 
 ***

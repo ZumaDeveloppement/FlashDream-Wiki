@@ -3,13 +3,13 @@
 
 ### 5.1. Respect de la hiérarchie
 
-Suivez les ordres RP de votre supérieur, sauf cas d'abus ou de conflit majeur.
+Les ordres RP de votre supérieur se suivent, sauf abus manifeste ou conflit majeur.
 
 > Exemple : Un Genin n'ignore pas les ordres de son sensei sans conséquence.
 
 ### 5.2. Déserteur (Nukenin)
 
-Un personnage peut déserter son village, mais cela nécessite :
+Un personnage peut déserter son village, mais cela suppose :
 
 * Un scénario solide
 * Une autorisation staff
@@ -17,8 +17,8 @@ Un personnage peut déserter son village, mais cela nécessite :
 
 ### 5.3. Organisations spéciales
 
-Les groupes comme Akatsuki, ANBU, Racine, etc. ne sont pas ouverts librement.
+Les groupes comme Akatsuki, ANBU, Racine, etc. restent fermés à l'accès libre.
 
-Vous devez suivre un scénario ou faire une demande RP justifiée.
+Un scénario ou une demande RP justifiée est nécessaire pour y accéder.
 
 ***

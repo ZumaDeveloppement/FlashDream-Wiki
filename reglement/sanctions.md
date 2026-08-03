@@ -8,8 +8,8 @@
 * ⛔ Ban temporaire
 * ❌ Ban définitif
 
-La sévérité dépend de la faute et de la récidive.
+La sévérité varie selon la faute et la récidive.
 
-Le staff se réserve le droit d'agir sans avertissement préalable en cas de comportement nuisible ou toxique.
+En cas de comportement nuisible ou toxique, le staff se réserve le droit d'agir sans avertissement préalable.
 
 ***

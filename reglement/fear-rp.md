@@ -1,7 +1,7 @@
 
 # 😨・Tableau Fear RP
 
-Le Fear RP impose à votre personnage de réagir de manière réaliste face à une menace, en fonction du grade de la personne qui lui fait face. Plus l'écart de grade est important, plus la peur doit être marquée.
+Le Fear RP impose à votre personnage une réaction réaliste face à une menace, selon le grade de la personne qui lui fait face. Plus l'écart de grade se creuse, plus la peur doit se marquer.
 
 ### Légende
 
@@ -28,13 +28,13 @@ Le Fear RP impose à votre personnage de réagir de manière réaliste face à u
 | **Kage** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
 
 {% hint style="info" %}
-Bien sûr, le tableau peut ne pas s'appliquer en fonction de la scène.
+Bien sûr, selon la scène, le tableau peut ne pas s'appliquer.
 
-À partir de Jônin, le Fear RP est adaptable en fonction du Background entre vous et la personne en face de vous.
+À partir de Jônin, le Fear RP s'adapte au Background qui vous lie à la personne en face de vous.
 {% endhint %}
 
 {% hint style="danger" %}
-Si le tableau n'est pas respecté, de lourdes sanctions seront mises en place.
+Le non-respect du tableau expose à de lourdes sanctions.
 {% endhint %}
 
 ***

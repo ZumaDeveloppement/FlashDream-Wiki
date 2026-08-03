@@ -3,18 +3,18 @@
 
 ### 4.1. Fiche obligatoire
 
-Toute action RP (combat, entraînement, technique…) doit se baser sur une fiche validée par le staff.
+Toute action RP — combat, entraînement, technique… — doit s'appuyer sur une fiche validée par le staff.
 
 ### 4.2. Évolution cohérente
 
-Pas de montée en puissance soudaine. Soyez patients, justifiez chaque étape.
+Pas de montée en puissance soudaine : patience, et chaque étape doit se justifier.
 
 > Interdit : *« Je suis Genin mais j'ai appris le Rasengan hier. »*
 > Correct : *« Après plusieurs entraînements, mon sensei m'a montré une version basique du Rasengan. »*
 
 ### 4.3. Gain d'XP / Jutsus
 
-Vos récompenses dépendent :
+Vos récompenses reposent sur :
 
 * De votre implication RP
 * De la qualité de votre écriture
@@ -22,8 +22,8 @@ Vos récompenses dépendent :
 
 ### 4.4. Clan & Kekkei Genkai
 
-Certains clans ou capacités sont limités pour préserver l'équilibre.
+Certains clans ou capacités restent limités, pour préserver l'équilibre.
 
-Demandez l'autorisation avant de créer un Uchiha, Hyûga, Jinchuriki, etc.
+Demandez toujours l'autorisation avant de créer un Uchiha, Hyûga, Jinchuriki, etc.
 
 ***

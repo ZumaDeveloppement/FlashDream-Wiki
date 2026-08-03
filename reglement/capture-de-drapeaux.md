@@ -5,29 +5,29 @@
 
 ### Intervention limitée
 
-Aucune autre escouade ne peut intervenir hors mis les escouades en négociation.
+Seules les escouades déjà en négociation peuvent intervenir : toutes les autres restent à l'écart.
 
 ### Priorité d'engagement
 
-Premier arrivé, premier servi. Si un combat a déjà éclaté pour la capture d'un drapeau, aucun autre groupe ne peut venir profiter de la situation pour réclamer la zone ou attaquer à nouveau une escouade ayant déjà défendu le drapeau.
+Premier arrivé, premier servi. Un combat a déjà éclaté pour la capture d'un drapeau ? Aucun autre groupe ne peut profiter de la situation pour réclamer la zone ou attaquer à nouveau une escouade qui a déjà défendu le drapeau.
 
 ### Phase de négociation
 
-Lorsqu'une escouade capture un drapeau, une phase de négociation doit avoir lieu. Aucune attaque n'est tolérée tant qu'il n'y a pas eu d'échanges entre les deux camps opposés.
+Dès qu'une escouade capture un drapeau, une phase de négociation s'impose. Aucune attaque n'est tolérée tant que les deux camps opposés n'ont pas échangé.
 
-Cette phase doit être faite à l'intérieur du cercle du drapeau. Pas de demande abusée : trouvez quelque chose que le camp adverse peut proposer. Quand un point est négocié avec des ryos, des ressources, l'escouade qui est sur le point ne peut plus se faire contester.
+Cette phase se déroule à l'intérieur du cercle du drapeau. Pas de demande abusive : trouvez quelque chose que le camp adverse est en mesure de proposer. Un point négocié avec des ryos ou des ressources met l'escouade qui l'occupe à l'abri de toute contestation.
 
 ### Phase de combat
 
-Si les négociations échouent, une heure précise dans les 5 minutes qui suivent doit être décidée pour déterminer le début du combat. Toute attaque surprise avant l'heure choisie est interdite.
+Si les négociations échouent, il faut fixer une heure précise, dans les 5 minutes qui suivent, pour marquer le début du combat. Toute attaque surprise avant l'heure choisie est interdite.
 
 ### Fair-play
 
-Le fair-play est primordial : pour le bien du serveur et le plaisir de jeu de tous, essayez d'équilibrer les affrontements. Envoyez un nombre de combattants similaire à celui du groupe adverse lorsque c'est possible.
+Le fair-play prime avant tout : pour le bien du serveur et le plaisir de jeu de tous, efforcez-vous d'équilibrer les affrontements. Envoyez, quand c'est possible, un nombre de combattants comparable à celui du groupe adverse.
 
 ### Règle du médecin
 
-Un seul médecin est autorisé par escouade. Une fois un drapeau capturé, il appartient à la faction qui l'a pris. Si un autre groupe attaque le drapeau, seule la faction à qui il appartient peut intervenir pour le défendre ou négocier contre le groupe présent sur le drapeau.
+Chaque escouade ne compte qu'un seul médecin. Une fois capturé, un drapeau appartient à la faction qui l'a pris. Si un autre groupe l'attaque, seule cette faction peut intervenir pour le défendre ou négocier face au groupe présent sur le drapeau.
 
 ### Interdictions
 

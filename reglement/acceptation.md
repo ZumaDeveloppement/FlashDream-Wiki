@@ -1,8 +1,8 @@
 
 # ✅・Acceptation du Règlement
 
-En rejoignant le serveur, vous acceptez l'intégralité de ce règlement.
+Rejoindre le serveur, c'est accepter l'intégralité de ce règlement.
 
-👉 Merci de réagir avec ✅ dans le canal **【📋】・règlement** pour valider votre inscription et accéder au reste du serveur.
+👉 Réagissez avec ✅ dans le canal **【📋】・règlement** pour valider votre inscription et accéder au reste du serveur.
 
 ***
