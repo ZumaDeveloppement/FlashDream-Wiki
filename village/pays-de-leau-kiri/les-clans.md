@@ -3,9 +3,9 @@
 
 ## Bienvenue dans la Section des Clans de Kiri
 
-Vous découvrirez ici les grandes lignées qui ont façonné le Village Caché de la Brume. Kiri ne naquit pas d’un simple idéal de paix, mais d’un besoin de survivre et de s’imposer dans un pays marqué par les guerres, les trahisons et les luttes de pouvoir.
+Découvrez ici les grandes lignées qui ont façonné le Village Caché de la Brume. Kiri ne naquit pas d'un simple idéal de paix, mais d'un besoin de survivre et de s'imposer dans un pays marqué par les guerres, les trahisons et les luttes de pouvoir.
 
-Chaque clan possède sa propre conception de la puissance, de l’honneur et de la loyauté. Leurs traditions sanglantes, leurs secrets et leurs ambitions nourrissent encore les rivalités du village, où les alliances peuvent décider qui dominera les mers de l'archipel et qui disparaîtra silencieusement au sein de la brume...
+Chaque clan porte sa propre conception de la puissance, de l'honneur et de la loyauté. Traditions sanglantes, secrets et ambitions continuent de nourrir les rivalités du village, où les alliances peuvent décider qui dominera les mers de l'archipel et qui disparaîtra silencieusement au sein de la brume...
 
 ### Liste des Clans de Kiri
 
