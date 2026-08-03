@@ -16,6 +16,7 @@
   * [✅・Acceptation du Règlement](reglement/acceptation.md)
 * [🗓️・Chronologie Historique 🆕](chronologie-historique.md)
 * [💡・Guide : Candidature RP 🆕](guide-candidature-rp.md)
+* [🎮・Commandes du Serveur](commandes-du-serveur.md)
 
 ## Village
 
