@@ -3,11 +3,11 @@
 
 * #### **Naoshi Raimei - 1er ♂️**
 
-Premier Hokage de Konohagakure, Naoshi Raimei fut celui qui posa les fondations du village au cœur du Pays du Feu. Descendant du clan Raimei, réputé pour la maîtrise du Raiton, il s’imposa très tôt comme un shinobi d’exception, capable d’unir autour de lui les grands clans épars pour bâtir un foyer commun.
+Premier Hokage de Konohagakure, Naoshi Raimei posa de ses propres mains les fondations du village au cœur du Pays du Feu. Descendant du clan Raimei, réputé pour sa maîtrise du Raiton, il s'imposa très tôt comme un shinobi d'exception, capable de rassembler autour de lui les grands clans épars pour ériger un foyer commun.
 
-Porté par une vision d’unité et de force, Naoshi façonna Konoha comme un refuge autant que comme une puissance : un lieu où les héritiers des différents clans pourraient grandir, se former et se protéger mutuellement, plutôt que de s’affronter dans l’ombre des guerres claniques.
+Porté par une vision d'unité et de force, Naoshi façonna Konoha à la fois comme un refuge et comme une puissance : un lieu où les héritiers des différents clans pourraient grandir, se former et se protéger les uns les autres, plutôt que de continuer à s'affronter dans l'ombre des guerres claniques.
 
-Sous son règne, les premières fondations administratives et militaires du village virent le jour, posant les bases sur lesquelles Konoha continuerait de s’élever pendant des générations. Naoshi resta dans les mémoires comme le bâtisseur silencieux, celui dont la foudre ne frappait jamais pour la gloire, mais toujours pour protéger ce qu’il avait choisi de faire naître.
+Sous son règne naquirent les premières fondations administratives et militaires du village, posant les bases sur lesquelles Konoha allait s'élever pendant des générations. Naoshi demeure dans les mémoires comme le bâtisseur silencieux, celui dont la foudre ne frappait jamais pour la gloire, mais toujours pour protéger ce qu'il avait choisi de faire naître.
 
 * #### **Tengen Uchiha - 2ème ♂️**
 

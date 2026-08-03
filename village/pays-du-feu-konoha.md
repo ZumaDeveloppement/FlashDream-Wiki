@@ -7,9 +7,9 @@ coverHeight: 430
 
 ## Bienvenue au Pays du Feu
 
-Vous découvrirez ici l’histoire, les territoires et les traditions du Pays du Feu, l’une des principales puissances du monde shinobi. Riche en forêts, en terres fertiles et en routes commerciales, il occupe une position centrale qui en a fait un foyer politique, économique et militaire majeur, autant convoité que respecté.
+Plongez dans l'histoire, les territoires et les traditions du Pays du Feu, l'une des grandes puissances du monde shinobi. Ses forêts denses, ses terres fertiles et ses routes commerciales lui confèrent une position centrale, faisant de lui un foyer politique, économique et militaire de premier plan, aussi convoité que respecté.
 
-En son cœur se trouve Konohagakure, né d’une trêve que beaucoup pensaient impossible entre des familles autrefois condamnées à s’entretuer. D’autres lignées rejoignirent progressivement cette alliance et participèrent à la construction du village. Cet héritage donna naissance à la Volonté du Feu, l’idée que Konoha doit être protégé comme une grande famille. Le village demeure ainsi un symbole d’unité et d’espoir, mais aussi une puissance dont les décisions influencent l’ensemble du continent.
+Konohagakure bat en son cœur, né d'une trêve que beaucoup jugeaient impossible entre des familles autrefois vouées à s'entretuer. D'autres lignées vinrent peu à peu grossir cette alliance et prendre part à l'édification du village. De cet héritage naquit la Volonté du Feu, cette conviction que Konoha doit être défendu comme une grande famille. Le village reste ainsi un symbole d'unité et d'espoir, mais également une puissance dont les décisions pèsent sur l'ensemble du continent.
 
 ### Liste des Sections :
 
