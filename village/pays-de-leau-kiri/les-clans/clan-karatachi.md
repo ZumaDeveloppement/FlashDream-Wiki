@@ -1,5 +1,7 @@
 # 🌫️・Clan Karatachi 🆕
 
+<figure><img src="/files/wfEcwQlIBAzClrxGbNKl" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Karatachi - Les Assassins de la Brume🆕
 
 Parler du **clan Karatachi**, c’est s’approcher d’une brume que même les marins du Pays de l’Eau apprirent très tôt à contourner. Bien avant la naissance de Kirigakure, bien avant que l’archipel ne cherche à devenir une nation unifiée, il existait une île que les cartes anciennes nommaient le **Récif Brumeux**. Ce n’était pas une terre accueillante, ni un simple rocher perdu au milieu des eaux, mais l’une de ces régions où la brume semblait plus dense qu’ailleurs, plus ancienne, presque vivante. Les navires évitaient ses côtes par peur de s’y perdre, car les repères disparaissaient en quelques instants, les sons se déformaient dans l’humidité, les silhouettes trompaient les yeux, et l’on racontait que ceux qui tentaient d’y accoster finissaient par tourner en rond jusqu’à ne plus savoir où se trouvait la mer.

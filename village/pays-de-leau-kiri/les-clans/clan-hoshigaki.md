@@ -1,5 +1,7 @@
 # 🦈・Clan Hoshigaki 🆕
 
+<figure><img src="/files/12PdeMAFGxTYK7iiySnb" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Hoshigaki - Les Instincts Prédateurs🆕
 
 Retracer l’histoire du **clan Hoshigaki**, c’est plonger jusqu’à une époque où le Pays de l’Eau n’existait pas encore comme nation, où Kirigakure n’était même pas un rêve, et où l’archipel entier n’obéissait qu’à la violence des vagues, aux cris des mouettes et aux hurlements des hommes qui arrachaient leur survie à l’océan. Bien avant les grandes familles, avant les Mizukage, avant les lames et les guerres de clans, une côte battue par les tempêtes abritait un village de pêcheurs que les cartes anciennes désignaient sous le nom de **Dock Sanglant**. Ce nom-là n’avait rien d’une image poétique ni d’une exagération de marins superstitieux : la marée elle-même ne suffisait plus à laver la teinte rouge qui clapotait sous les pontons de bois, tant les hommes du lieu revenaient sans relâche chargés de chairs ouvertes, d’ailerons tranchés et de carcasses marines abandonnées aux couteaux.

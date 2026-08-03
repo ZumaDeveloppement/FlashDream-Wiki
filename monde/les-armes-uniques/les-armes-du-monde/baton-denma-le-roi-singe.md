@@ -1,5 +1,7 @@
 # ⚪・Les Armes du Monde
 
+<figure><img src="/files/D38ZbklPJJ9vOfCTyL5C" alt="" width="250"><figcaption></figcaption></figure>
+
 Bien avant la fondation des villages cachés, à une époque où les créatures ayant maîtrisé le Senjutsu rivalisaient encore avec les plus grands monstres du monde, un autre nom dominait les montagnes, les jungles et les forêts anciennes : **Sarugami**, le Singe Divin.
 
 Les récits les plus anciens racontent que Sarugami ne gouvernait ni par la peur ni par la force. Là où d'autres souverains imposaient leur volonté, lui préférait unir son peuple par la joie. Même dans les périodes les plus sombres, lorsque les famines frappaient ou que les créatures les plus féroces menaçaient les territoires des singes, il trouvait toujours un moyen de rappeler à chacun que le rire était une force capable de vaincre le désespoir. Les anciens disent qu'aucun singe ne quittait sa présence sans retrouver le sourire, quelles que soient les épreuves qu'il venait de traverser. Maître incontesté du Senjutsu, Sarugami transmit également une immense partie de son savoir à celui qu'il considérait comme son plus brillant disciple : **Enma**.

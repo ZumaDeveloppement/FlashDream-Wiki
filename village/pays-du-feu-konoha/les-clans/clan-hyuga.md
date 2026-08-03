@@ -1,5 +1,7 @@
 # ⚪・Clan Hyûga 🆕
 
+<figure><img src="/files/PSkl3NtZ133klhaP4hP2" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Hyûga - Les Yeux Célestes 🆕
 
 Les <mark style="color:cyan;">Hyūga</mark> incarnent depuis des siècles la pureté, la discipline et la noblesse, symbolisées par leurs pupilles pâles et la maîtrise absolue du Jūken. Bien avant l’apparition des villages ninjas, ils étaient déjà considérés comme une lignée ancienne et presque immuable dans les terres montagneuses de ce qui deviendrait plus tard le <mark style="color:red;">Pays du Feu</mark>.

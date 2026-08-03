@@ -29,6 +29,7 @@ Toutes les règles indiquées dans le présent règlement peuvent entrainer des 
 * [**🌀・Règles de Roleplay**](reglement/roleplay.md)
 * [**⚔️・Règles de Combat (PvP)**](reglement/combat-pvp.md)
 * [**🚩・Capture de Drapeaux**](reglement/capture-de-drapeaux.md)
+* [**📜・Vol RP (Armes, Objets, Dōjutsu)**](reglement/vol-rp.md)
 * [**😨・Tableau Fear RP**](reglement/fear-rp.md)
 * [**📈・Progression et Fiches Personnages**](reglement/progression-fiches.md)
 * [**🏙️・Règles de Village et Organisation**](reglement/village-organisation.md)

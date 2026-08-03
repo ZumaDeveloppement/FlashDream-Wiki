@@ -1,5 +1,7 @@
 # 🦑・Clan Yokushin 🆕️
 
+<figure><img src="/files/QuSGhsR5wbFbqSndpr9B" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Yokushin - Les Sombres Esclaves 🆕️
 
 {% hint style="warning" %}

@@ -1,5 +1,7 @@
 # 🪲・Clan Aburame 🆕
 
+<figure><img src="/files/62FQpI7hZs6mEeUXuD1C" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Aburame - Les Maîtres des Essaims 🆕
 
 Raconter l’histoire du clan Aburame, c’est remonter à l’une des mémoires les plus silencieuses du Pays du Feu, à une époque où les grands clans s’entredéchiraient pour des terres, des routes, des alliances et des héritages qui n’avaient pas encore trouvé de forme politique stable. Pendant que Senju et Uchiha faisaient trembler les plaines de leurs affrontements, pendant que les Hyuga imposaient déjà le respect par la pureté de leur lignée et la précision de leur regard, les Aburame vivaient en retrait, dans les forêts profondes du nord, à deux pas des frontières qui mèneraient plus tard vers le Pays de la Terre, le Pays de l’Herbe et le Pays des Cascades. Absents de l’histoire, ils ne l’étaient pas — ils la traversaient simplement avec une discrétion telle que beaucoup ne saisirent leur importance qu’une fois le besoin d’eux devenu criant.

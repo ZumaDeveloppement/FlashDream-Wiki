@@ -1,5 +1,7 @@
 # 🐦‍⬛・Clan Uchiha 🆕
 
+<figure><img src="/files/3WzO1JNijs0amrSXj9kx" alt="" width="250"><figcaption></figcaption></figure>
+
 ## **Histoire du Clan Uchiha - Les** Démons aux Yeux Rouges 🆕
 
 Raconter l’histoire du **clan Uchiha**, c’est remonter à l’une des flammes les plus anciennes du Pays du Feu, à une époque où les hommes donnaient encore aux clans des origines que les archives elles-mêmes n’osaient pas contredire. Certaines légendes racontaient que les Uchiha vinrent au monde lorsque la première flamme cessa d’être une simple lumière pour devenir brûlure, comme si leur existence avait accompagné le moment précis où le feu apprit à détruire autant qu’à guider. D’autres récits, plus sombres, prétendaient que leurs yeux écarlates étaient ceux de démons, capables de voir ce que les hommes ordinaires ne devaient jamais percevoir, tandis que d’autres encore les disaient issus de créatures célestes capables de traverser les tempêtes, le regard rouge comme les astres avant l’orage. Nul ne sait où finit la vérité et où commence le mythe, mais aussi loin que les archives du monde permettent de remonter, les Uchiha appartiennent aux terres de l’actuel Pays du Feu, comme si leur histoire avait toujours été liée à cette région convoitée, fertile et violente.

@@ -1,5 +1,7 @@
 # 🐚・Clan Hōzuki 🆕️
 
+<figure><img src="/files/O4OhBPuEshNN0sxghAzM" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Hōzuki - La Royauté des Abysses 🆕️
 
 Selon les légendes les plus anciennes du Pays de l’Eau, les Hōzuki ne seraient pas nés sur la terre ferme. Ni dans un village, ni sur une île, ni dans une maison humaine — mais dans les profondeurs les plus obscures de l’archipel, là où la lumière ne pénètre jamais, où la pression réduit les os en poussière, où l’océan cesse d’être un paysage pour devenir un monde impitoyable, silencieux, presque étranger à la vie des hommes. Certaines traditions racontent qu’ils auraient émergé des failles abyssales, comme si la mer elle-même avait un jour décidé de prendre forme humaine. D’autres récits les disent nés dans de gigantesques palourdes enfouies dans ces mêmes profondeurs, formés par la pression de l’eau à l’intérieur des coquilles, comme des perles pures créées dans les ténèbres.

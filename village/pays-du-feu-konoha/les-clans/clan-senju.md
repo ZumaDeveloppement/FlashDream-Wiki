@@ -1,5 +1,7 @@
 # 🌿・Clan Senju 🆕
 
+<figure><img src="/files/Ox9MhxSEkntkrUXttY97" alt="" width="250"><figcaption></figcaption></figure>
+
 ## Histoire du Clan Senju - Les Descendants de la Forêt 🆕
 
 Raconter l’histoire du clan <mark style="color:$success;">Senju</mark>, c’est remonter à la mémoire même du monde shinobi, à une époque où les hommes effleuraient à peine les lois du chakra, et où la guerre n’était pas un accident de l’histoire, mais son rythme naturel.
