@@ -1,8 +1,3 @@
----
-coverY: 0
-coverHeight: 430
----
-
 # 🔥・Pays du Feu / Konoha 🆕
 
 ## Bienvenue au Pays du Feu

@@ -1,8 +1,3 @@
----
-coverY: 0
-coverHeight: 547
----
-
 # 📌・Règlement
 
 ### Bienvenue dans la section du règlement !

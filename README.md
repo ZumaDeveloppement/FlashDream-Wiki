@@ -1,12 +1,6 @@
 ---
-coverY: 0
-coverHeight: 447
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
-    mask: none
   title:
     visible: true
   description:
