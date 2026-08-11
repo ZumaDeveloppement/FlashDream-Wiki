@@ -9,14 +9,10 @@ Il n'est pas rare qu'une Arme Légendaire finisse par dépasser la renommée de 
 
 ### [🔴 Armes de Konoha - Pays du Feu](/naruto/monde/les-armes-uniques/les-armes-de-konoha.md)
 
-### [🟢 Armes de Suna - Pays du Vent](/naruto/monde/les-armes-uniques/les-armes-de-suna.md)
-
-### [🟣 Armes d'Oto - Pays du Son](/naruto/monde/les-armes-uniques/les-armes-de-oto.md)
-
 ### [🔵 Armes de Kiri - Pays de l'Eau](/naruto/monde/les-armes-uniques/les-armes-de-kiri.md)
 
 ### [⚫ Armes des Samouraï](/naruto/monde/les-armes-uniques/les-armes-des-samourais.md)
 
-### [⚪ Armes du Monde](/naruto/monde/les-armes-uniques/les-armes-du-monde.md)
+### [⚪ Armes du Monde](/naruto/monde/les-armes-uniques/les-armes-du-monde/baton-denma-le-roi-singe.md)
 
 ***

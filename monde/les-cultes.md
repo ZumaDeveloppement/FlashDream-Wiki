@@ -7,11 +7,7 @@ Disciples de Jashin glorifiant la souffrance et le sacrifice, moines prônant pa
 
 Cette section vous fera découvrir les différents cultes, leurs préceptes, leurs rituels, leurs organisations, les philosophies qui les animent. Car dans le monde shinobi, la foi peut être aussi puissante qu'une arme — et les convictions d'un homme, parfois plus dangereuses que n'importe quelle technique.
 
-### [🩸・Culte de Jashin](/naruto/monde/les-cultes/culte-de-jashin.md) - Oto
-
 ### [🏮・Monastère des Moines](/naruto/monde/les-cultes/monastere-des-moines.md) - Konoha
-
-### [🔆・Culte du Soleil](/naruto/monde/les-cultes/culte-du-soleil.md) - Suna
 
 ### [🎭・Théâtre de la Brume](/naruto/monde/les-cultes/theatre-de-la-brume.md) - Kiri
 

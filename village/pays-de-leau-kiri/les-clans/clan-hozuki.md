@@ -153,7 +153,6 @@ Ainsi les Yokushin représentent l’un des plus grands mensonges politiques des
 ## **Pour en apprendre plus sur le Clan** Hōzuki **:**
 
 * [**Clan Yokushin**](../../../naruto/village/pays-de-leau-kiri/les-clans/clan-yokushin.md), Sombres Esclaves
-* [**Pays des Neiges, Yukigakure**](../../../naruto/monde/les-pays-passifs/pays-des-neiges-yuki.md)
 * [**Les 7 Epées de la Brume**](../../../naruto/monde/les-armes-uniques/les-armes-de-kiri.md), Volontée de Rangetsu Hōzuki
 * [**Genjutsu**](../../../naruto/monde/les-arts-ninja/genjutsu.md)
 
