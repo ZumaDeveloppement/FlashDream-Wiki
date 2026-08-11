@@ -101,28 +101,12 @@ Le Commandant Jōnin a pour mission de garantir la sécurité de son village par
 
 ### 🎖️ - Kage
 
-Le Kage est le commandant suprême des forces armées de son village, la plus haute autorité militaire de sa nation. Investi par le village, il reçoit la pleine confiance du Daimyo, souverain du pays, pour exercer l'ensemble des prérogatives relevant de la défense nationale, de l'organisation des armées et de la protection des intérêts vitaux du pays. À ce titre, il incarne le lien entre pouvoir civil et institution militaire.
+Le Kage est le commandant suprême des forces armées de son village, la plus haute autorité militaire de sa nation. Il exerce l'ensemble des prérogatives relevant de la défense nationale, de l'organisation des armées et de la protection des intérêts vitaux du pays.
 
 Garant de la sécurité du territoire, le Kage dirige l'ensemble des forces shinobi, nomme les principaux officiers, définit les orientations stratégiques, supervise les opérations militaires et veille au maintien de l'ordre au sein du village. À lui de préparer son armée aux conflits, d'assurer la protection des populations civiles, de défendre les intérêts de la nation et de préserver la continuité de l'État, quelles que soient les menaces auxquelles celui-ci est confronté.
 
 Ses responsabilités dépassent largement le cadre militaire. Le Kage représente officiellement son village auprès des autres nations, siège aux grandes réunions diplomatiques, négocie les alliances, traite les affaires internationales et incarne l'autorité de son village lors des cérémonies, des crises et des événements majeurs. Chacune de ses décisions peut peser sur l'équilibre du monde shinobi.
 
 Plus qu'un simple chef, le Kage incarne l'excellence shinobi. Son autorité repose autant sur sa puissance que sur son sens du devoir, son intégrité et sa capacité à guider tout un peuple. En toutes circonstances, il demeure le premier défenseur de sa nation, prêt à sacrifier sa propre vie pour garantir la sécurité de ses habitants, la prospérité de son pays et la pérennité de son héritage.
-
-***
-
-### 👑 - Daimyō&#x20;
-
-> Personnage Passif
-
-Le Daimyō est le souverain du pays, la plus haute autorité politique de la nation. Héritier d'une lignée ou investi selon les traditions de son royaume, il incarne l'État dans sa continuité et gouverne l'ensemble de ses institutions civiles. À ce titre, il garantit la stabilité du pays, son développement, ses lois, son rayonnement culturel et la prospérité de son peuple.
-
-Le territoire, les grandes institutions et les ressources nationales relèvent de son autorité. Il dirige les affaires politiques, économiques, sociales et diplomatiques du pays, reçoit les représentants étrangers, conclut les traités, entretient les relations avec les autres Daimyō et représente officiellement sa nation lors des grandes rencontres internationales. Son rôle : préserver avant tout les intérêts de son peuple par la négociation, la coopération et l'exercice du pouvoir civil.
-
-Le Daimyō, en revanche, ne commande pas les forces armées. Conscient que la guerre et les opérations militaires exigent une expertise propre, il délègue l'ensemble des prérogatives militaires au Kage, à qui il accorde sa confiance pour assurer la défense du territoire, la sécurité des populations et la protection des intérêts vitaux de la nation. Le Kage dispose ainsi d'une large autonomie dans la conduite des affaires militaires, tout en demeurant le premier serviteur de l'État et du souverain.
-
-Là où le Daimyō cherche à préserver la paix par la diplomatie, le Kage garantit que le pays saura la défendre lorsque les mots ne suffisent plus. Ensemble, ils forment les deux piliers de l'autorité nationale : l'un dirige le pays, l'autre protège sa souveraineté. Si le Daimyō incarne la nation, le Kage en est le bouclier.
-
-Le Daimyō a pour mission d'assurer la continuité de l'État, de préserver l'unité de son peuple et de conduire son pays vers un avenir prospère. Son règne ne se mesure pas seulement à la puissance de son royaume, mais à sa capacité à transmettre aux générations futures une nation plus forte, plus stable et plus respectée que celle qu'il a reçue.
 
 ***
