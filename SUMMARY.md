@@ -104,3 +104,4 @@
   * [🏮・Monastère des Moines 🆕](monde/les-cultes/monastere-des-moines.md)
   * [🎭・Théâtre de la Brume 🆕](monde/les-cultes/theatre-de-la-brume.md)
 * [🎖️・Les Grades 🆕](monde/les-grades.md)
+* [💰・Les Ressources 🆕](monde/les-ressources.md)
