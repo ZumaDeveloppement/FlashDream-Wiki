@@ -3,7 +3,7 @@
 
 ### À quoi servent les ressources ?
 
-En explorant le monde, vous trouverez toutes sortes de matériaux : bois, métaux, pierres précieuses, tissus, parchemins... Ces ressources se récoltent sur la carte et peuvent ensuite être amenées à la **Forge** (raccourci **F6**) pour être transformées en objets : bijoux (boucles d'oreilles, bagues, colliers) et pièces d'équipement (hauts, bas), chacun disponible en plusieurs qualités croissantes.
+En explorant le monde, vous trouverez toutes sortes de matériaux : bois, métaux, pierres précieuses, tissus, parchemins... Ces ressources se récoltent sur la carte et peuvent ensuite être amenées à la **Forge** pour être transformées en objets : bijoux (boucles d'oreilles, bagues, colliers) et pièces d'équipement (hauts, bas), chacun disponible en plusieurs qualités croissantes.
 
 Plus une ressource est rare, plus les objets qu'elle permet de fabriquer sont puissants et prestigieux — mais aussi plus difficiles à obtenir et à réussir en forge, votre grade ninja déterminant les recettes accessibles.
 
@@ -12,7 +12,7 @@ Plus une ressource est rare, plus les objets qu'elle permet de fabriquer sont pu
 ### 🔨 Comment ça marche ?
 
 * **Récoltez** les ressources en explorant les différentes régions du monde.
-* **Rendez-vous à la Forge** (touche **F6**) pour consulter les recettes disponibles.
+* **Rendez-vous à la Forge** pour consulter les recettes disponibles.
 * **Combinez** les bons ingrédients dans les bonnes quantités pour fabriquer l'objet voulu.
 * Votre **rang de forgeron** (Player, Trainee, Adept, Expert, Master) influence vos chances de réussite selon la rareté de l'objet : plus votre rang est élevé, plus vous avez de chances de réussir un craft rare, épique, légendaire ou unique.
 * Votre **grade ninja** (Genin, Chūnin, Tokubetsu Chūnin, Tokubetsu Jōnin...) conditionne également les recettes auxquelles vous avez accès.
